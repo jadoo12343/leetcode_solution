@@ -11,6 +11,7 @@ all the leetcode problem's solution i have completed
 ## Math
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/jadoo12343/leetcode_solution/tree/master/0412-fizz-buzz) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/jadoo12343/leetcode_solution/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Two Pointers
 |  |
@@ -23,6 +24,7 @@ all the leetcode problem's solution i have completed
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/jadoo12343/leetcode_solution/tree/master/0412-fizz-buzz) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/jadoo12343/leetcode_solution/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Number Theory
 |  |
@@ -32,4 +34,8 @@ all the leetcode problem's solution i have completed
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/jadoo12343/leetcode_solution/tree/master/1672-richest-customer-wealth) |
+## String
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/jadoo12343/leetcode_solution/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
