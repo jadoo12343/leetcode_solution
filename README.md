@@ -6,6 +6,7 @@ all the leetcode problem's solution i have completed
 ## Array
 |  |
 | ------- |
+| [1672-richest-customer-wealth](https://github.com/jadoo12343/leetcode_solution/tree/master/1672-richest-customer-wealth) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/jadoo12343/leetcode_solution/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Math
 |  |
@@ -27,4 +28,8 @@ all the leetcode problem's solution i have completed
 |  |
 | ------- |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/jadoo12343/leetcode_solution/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Matrix
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/jadoo12343/leetcode_solution/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
