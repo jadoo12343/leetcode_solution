@@ -13,6 +13,7 @@ all the leetcode problem's solution i have completed
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/jadoo12343/leetcode_solution/tree/master/0009-palindrome-number) |
 | [0412-fizz-buzz](https://github.com/jadoo12343/leetcode_solution/tree/master/0412-fizz-buzz) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/jadoo12343/leetcode_solution/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/jadoo12343/leetcode_solution/tree/master/1979-find-greatest-common-divisor-of-array) |
