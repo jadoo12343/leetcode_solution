@@ -6,6 +6,7 @@ all the leetcode problem's solution i have completed
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/jadoo12343/leetcode_solution/tree/master/0001-two-sum) |
 | [1672-richest-customer-wealth](https://github.com/jadoo12343/leetcode_solution/tree/master/1672-richest-customer-wealth) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/jadoo12343/leetcode_solution/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/jadoo12343/leetcode_solution/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -55,6 +56,7 @@ all the leetcode problem's solution i have completed
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/jadoo12343/leetcode_solution/tree/master/0001-two-sum) |
 | [0383-ransom-note](https://github.com/jadoo12343/leetcode_solution/tree/master/0383-ransom-note) |
 ## Counting
 |  |
