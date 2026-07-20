@@ -7,6 +7,7 @@ all the leetcode problem's solution i have completed
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/jadoo12343/leetcode_solution/tree/master/0001-two-sum) |
+| [1260-shift-2d-grid](https://github.com/jadoo12343/leetcode_solution/tree/master/1260-shift-2d-grid) |
 | [1672-richest-customer-wealth](https://github.com/jadoo12343/leetcode_solution/tree/master/1672-richest-customer-wealth) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/jadoo12343/leetcode_solution/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/jadoo12343/leetcode_solution/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -32,6 +33,7 @@ all the leetcode problem's solution i have completed
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/jadoo12343/leetcode_solution/tree/master/0412-fizz-buzz) |
+| [1260-shift-2d-grid](https://github.com/jadoo12343/leetcode_solution/tree/master/1260-shift-2d-grid) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/jadoo12343/leetcode_solution/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Number Theory
 |  |
@@ -41,6 +43,7 @@ all the leetcode problem's solution i have completed
 ## Matrix
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/jadoo12343/leetcode_solution/tree/master/1260-shift-2d-grid) |
 | [1672-richest-customer-wealth](https://github.com/jadoo12343/leetcode_solution/tree/master/1672-richest-customer-wealth) |
 ## String
 |  |
