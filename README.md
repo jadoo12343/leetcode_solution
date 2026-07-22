@@ -24,6 +24,7 @@ all the leetcode problem's solution i have completed
 |  |
 | ------- |
 | [0876-middle-of-the-linked-list](https://github.com/jadoo12343/leetcode_solution/tree/master/0876-middle-of-the-linked-list) |
+| [1768-merge-strings-alternately](https://github.com/jadoo12343/leetcode_solution/tree/master/1768-merge-strings-alternately) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/jadoo12343/leetcode_solution/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting
 |  |
@@ -52,6 +53,7 @@ all the leetcode problem's solution i have completed
 | [0383-ransom-note](https://github.com/jadoo12343/leetcode_solution/tree/master/0383-ransom-note) |
 | [0412-fizz-buzz](https://github.com/jadoo12343/leetcode_solution/tree/master/0412-fizz-buzz) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/jadoo12343/leetcode_solution/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1768-merge-strings-alternately](https://github.com/jadoo12343/leetcode_solution/tree/master/1768-merge-strings-alternately) |
 ## Bit Manipulation
 |  |
 | ------- |
