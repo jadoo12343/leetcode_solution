@@ -10,6 +10,7 @@ all the leetcode problem's solution i have completed
 | [0066-plus-one](https://github.com/jadoo12343/leetcode_solution/tree/master/0066-plus-one) |
 | [0283-move-zeroes](https://github.com/jadoo12343/leetcode_solution/tree/master/0283-move-zeroes) |
 | [1260-shift-2d-grid](https://github.com/jadoo12343/leetcode_solution/tree/master/1260-shift-2d-grid) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/jadoo12343/leetcode_solution/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1672-richest-customer-wealth](https://github.com/jadoo12343/leetcode_solution/tree/master/1672-richest-customer-wealth) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/jadoo12343/leetcode_solution/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/jadoo12343/leetcode_solution/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -38,6 +39,7 @@ all the leetcode problem's solution i have completed
 | ------- |
 | [0242-valid-anagram](https://github.com/jadoo12343/leetcode_solution/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/jadoo12343/leetcode_solution/tree/master/0389-find-the-difference) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/jadoo12343/leetcode_solution/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/jadoo12343/leetcode_solution/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
 |  |
