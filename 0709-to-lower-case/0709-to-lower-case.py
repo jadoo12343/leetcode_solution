@@ -1,4 +1,11 @@
 class Solution:
     def toLowerCase(self, s: str) -> str:
-        return s.lower()
+        st=""
+        for k in s:
+            if k in "ABCDEFGHIJKLMNOPQRSTUVWXYZ":
+                st+=k.lower()
+            else:
+                st+=k
+        return st
+
         
