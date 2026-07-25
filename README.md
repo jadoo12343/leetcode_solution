@@ -9,6 +9,7 @@ all the leetcode problem's solution i have completed
 | [0001-two-sum](https://github.com/jadoo12343/leetcode_solution/tree/master/0001-two-sum) |
 | [0066-plus-one](https://github.com/jadoo12343/leetcode_solution/tree/master/0066-plus-one) |
 | [0283-move-zeroes](https://github.com/jadoo12343/leetcode_solution/tree/master/0283-move-zeroes) |
+| [0682-baseball-game](https://github.com/jadoo12343/leetcode_solution/tree/master/0682-baseball-game) |
 | [0896-monotonic-array](https://github.com/jadoo12343/leetcode_solution/tree/master/0896-monotonic-array) |
 | [1260-shift-2d-grid](https://github.com/jadoo12343/leetcode_solution/tree/master/1260-shift-2d-grid) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/jadoo12343/leetcode_solution/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
@@ -46,6 +47,7 @@ all the leetcode problem's solution i have completed
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/jadoo12343/leetcode_solution/tree/master/0412-fizz-buzz) |
+| [0682-baseball-game](https://github.com/jadoo12343/leetcode_solution/tree/master/0682-baseball-game) |
 | [1260-shift-2d-grid](https://github.com/jadoo12343/leetcode_solution/tree/master/1260-shift-2d-grid) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/jadoo12343/leetcode_solution/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Number Theory
@@ -96,6 +98,7 @@ all the leetcode problem's solution i have completed
 ## Stack
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/jadoo12343/leetcode_solution/tree/master/0682-baseball-game) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/jadoo12343/leetcode_solution/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Greedy
 |  |
