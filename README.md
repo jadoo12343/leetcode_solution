@@ -7,6 +7,7 @@ all the leetcode problem's solution i have completed
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/jadoo12343/leetcode_solution/tree/master/0001-two-sum) |
+| [0054-spiral-matrix](https://github.com/jadoo12343/leetcode_solution/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/jadoo12343/leetcode_solution/tree/master/0066-plus-one) |
 | [0283-move-zeroes](https://github.com/jadoo12343/leetcode_solution/tree/master/0283-move-zeroes) |
 | [0682-baseball-game](https://github.com/jadoo12343/leetcode_solution/tree/master/0682-baseball-game) |
@@ -49,6 +50,7 @@ all the leetcode problem's solution i have completed
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/jadoo12343/leetcode_solution/tree/master/0054-spiral-matrix) |
 | [0412-fizz-buzz](https://github.com/jadoo12343/leetcode_solution/tree/master/0412-fizz-buzz) |
 | [0657-robot-return-to-origin](https://github.com/jadoo12343/leetcode_solution/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/jadoo12343/leetcode_solution/tree/master/0682-baseball-game) |
@@ -64,6 +66,7 @@ all the leetcode problem's solution i have completed
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/jadoo12343/leetcode_solution/tree/master/0054-spiral-matrix) |
 | [1260-shift-2d-grid](https://github.com/jadoo12343/leetcode_solution/tree/master/1260-shift-2d-grid) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/jadoo12343/leetcode_solution/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1572-matrix-diagonal-sum](https://github.com/jadoo12343/leetcode_solution/tree/master/1572-matrix-diagonal-sum) |
