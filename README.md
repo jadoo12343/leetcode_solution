@@ -9,6 +9,7 @@ all the leetcode problem's solution i have completed
 | [0001-two-sum](https://github.com/jadoo12343/leetcode_solution/tree/master/0001-two-sum) |
 | [0054-spiral-matrix](https://github.com/jadoo12343/leetcode_solution/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/jadoo12343/leetcode_solution/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/jadoo12343/leetcode_solution/tree/master/0073-set-matrix-zeroes) |
 | [0283-move-zeroes](https://github.com/jadoo12343/leetcode_solution/tree/master/0283-move-zeroes) |
 | [0682-baseball-game](https://github.com/jadoo12343/leetcode_solution/tree/master/0682-baseball-game) |
 | [0896-monotonic-array](https://github.com/jadoo12343/leetcode_solution/tree/master/0896-monotonic-array) |
@@ -67,6 +68,7 @@ all the leetcode problem's solution i have completed
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/jadoo12343/leetcode_solution/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/jadoo12343/leetcode_solution/tree/master/0073-set-matrix-zeroes) |
 | [1260-shift-2d-grid](https://github.com/jadoo12343/leetcode_solution/tree/master/1260-shift-2d-grid) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/jadoo12343/leetcode_solution/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1572-matrix-diagonal-sum](https://github.com/jadoo12343/leetcode_solution/tree/master/1572-matrix-diagonal-sum) |
@@ -101,6 +103,7 @@ all the leetcode problem's solution i have completed
 | ------- |
 | [0001-two-sum](https://github.com/jadoo12343/leetcode_solution/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/jadoo12343/leetcode_solution/tree/master/0013-roman-to-integer) |
+| [0073-set-matrix-zeroes](https://github.com/jadoo12343/leetcode_solution/tree/master/0073-set-matrix-zeroes) |
 | [0242-valid-anagram](https://github.com/jadoo12343/leetcode_solution/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/jadoo12343/leetcode_solution/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/jadoo12343/leetcode_solution/tree/master/0389-find-the-difference) |
