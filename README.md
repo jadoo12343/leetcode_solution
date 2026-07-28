@@ -12,6 +12,7 @@ all the leetcode problem's solution i have completed
 | [0073-set-matrix-zeroes](https://github.com/jadoo12343/leetcode_solution/tree/master/0073-set-matrix-zeroes) |
 | [0283-move-zeroes](https://github.com/jadoo12343/leetcode_solution/tree/master/0283-move-zeroes) |
 | [0682-baseball-game](https://github.com/jadoo12343/leetcode_solution/tree/master/0682-baseball-game) |
+| [0860-lemonade-change](https://github.com/jadoo12343/leetcode_solution/tree/master/0860-lemonade-change) |
 | [0896-monotonic-array](https://github.com/jadoo12343/leetcode_solution/tree/master/0896-monotonic-array) |
 | [1260-shift-2d-grid](https://github.com/jadoo12343/leetcode_solution/tree/master/1260-shift-2d-grid) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/jadoo12343/leetcode_solution/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
@@ -123,6 +124,7 @@ all the leetcode problem's solution i have completed
 ## Greedy
 |  |
 | ------- |
+| [0860-lemonade-change](https://github.com/jadoo12343/leetcode_solution/tree/master/0860-lemonade-change) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/jadoo12343/leetcode_solution/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Monotonic Stack
 |  |
