@@ -30,6 +30,7 @@ all the leetcode problem's solution i have completed
 | [0009-palindrome-number](https://github.com/jadoo12343/leetcode_solution/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/jadoo12343/leetcode_solution/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/jadoo12343/leetcode_solution/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/jadoo12343/leetcode_solution/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/jadoo12343/leetcode_solution/tree/master/0412-fizz-buzz) |
 | [0976-largest-perimeter-triangle](https://github.com/jadoo12343/leetcode_solution/tree/master/0976-largest-perimeter-triangle) |
 | [1041-robot-bounded-in-circle](https://github.com/jadoo12343/leetcode_solution/tree/master/1041-robot-bounded-in-circle) |
@@ -59,6 +60,7 @@ all the leetcode problem's solution i have completed
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/jadoo12343/leetcode_solution/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/jadoo12343/leetcode_solution/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/jadoo12343/leetcode_solution/tree/master/0412-fizz-buzz) |
 | [0657-robot-return-to-origin](https://github.com/jadoo12343/leetcode_solution/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/jadoo12343/leetcode_solution/tree/master/0682-baseball-game) |
@@ -86,6 +88,7 @@ all the leetcode problem's solution i have completed
 | [0013-roman-to-integer](https://github.com/jadoo12343/leetcode_solution/tree/master/0013-roman-to-integer) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jadoo12343/leetcode_solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/jadoo12343/leetcode_solution/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/jadoo12343/leetcode_solution/tree/master/0067-add-binary) |
 | [0242-valid-anagram](https://github.com/jadoo12343/leetcode_solution/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/jadoo12343/leetcode_solution/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/jadoo12343/leetcode_solution/tree/master/0389-find-the-difference) |
@@ -99,6 +102,7 @@ all the leetcode problem's solution i have completed
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/jadoo12343/leetcode_solution/tree/master/0067-add-binary) |
 | [0389-find-the-difference](https://github.com/jadoo12343/leetcode_solution/tree/master/0389-find-the-difference) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/jadoo12343/leetcode_solution/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Linked List
