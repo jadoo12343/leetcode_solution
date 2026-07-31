@@ -112,6 +112,7 @@ all the leetcode problem's solution i have completed
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/jadoo12343/leetcode_solution/tree/master/0021-merge-two-sorted-lists) |
 | [0876-middle-of-the-linked-list](https://github.com/jadoo12343/leetcode_solution/tree/master/0876-middle-of-the-linked-list) |
 ## Hash Table
 |  |
@@ -150,5 +151,6 @@ all the leetcode problem's solution i have completed
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/jadoo12343/leetcode_solution/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/jadoo12343/leetcode_solution/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
