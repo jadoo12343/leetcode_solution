@@ -11,6 +11,7 @@ all the leetcode problem's solution i have completed
 | [0066-plus-one](https://github.com/jadoo12343/leetcode_solution/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/jadoo12343/leetcode_solution/tree/master/0073-set-matrix-zeroes) |
 | [0283-move-zeroes](https://github.com/jadoo12343/leetcode_solution/tree/master/0283-move-zeroes) |
+| [0486-predict-the-winner](https://github.com/jadoo12343/leetcode_solution/tree/master/0486-predict-the-winner) |
 | [0682-baseball-game](https://github.com/jadoo12343/leetcode_solution/tree/master/0682-baseball-game) |
 | [0860-lemonade-change](https://github.com/jadoo12343/leetcode_solution/tree/master/0860-lemonade-change) |
 | [0896-monotonic-array](https://github.com/jadoo12343/leetcode_solution/tree/master/0896-monotonic-array) |
@@ -34,6 +35,7 @@ all the leetcode problem's solution i have completed
 | [0066-plus-one](https://github.com/jadoo12343/leetcode_solution/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/jadoo12343/leetcode_solution/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/jadoo12343/leetcode_solution/tree/master/0412-fizz-buzz) |
+| [0486-predict-the-winner](https://github.com/jadoo12343/leetcode_solution/tree/master/0486-predict-the-winner) |
 | [0976-largest-perimeter-triangle](https://github.com/jadoo12343/leetcode_solution/tree/master/0976-largest-perimeter-triangle) |
 | [1041-robot-bounded-in-circle](https://github.com/jadoo12343/leetcode_solution/tree/master/1041-robot-bounded-in-circle) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/jadoo12343/leetcode_solution/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -160,4 +162,13 @@ all the leetcode problem's solution i have completed
 | [0021-merge-two-sorted-lists](https://github.com/jadoo12343/leetcode_solution/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/jadoo12343/leetcode_solution/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/jadoo12343/leetcode_solution/tree/master/0206-reverse-linked-list) |
+| [0486-predict-the-winner](https://github.com/jadoo12343/leetcode_solution/tree/master/0486-predict-the-winner) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/jadoo12343/leetcode_solution/tree/master/0486-predict-the-winner) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/jadoo12343/leetcode_solution/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
