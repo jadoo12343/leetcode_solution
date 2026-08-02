@@ -14,6 +14,7 @@ all the leetcode problem's solution i have completed
 | [0486-predict-the-winner](https://github.com/jadoo12343/leetcode_solution/tree/master/0486-predict-the-winner) |
 | [0682-baseball-game](https://github.com/jadoo12343/leetcode_solution/tree/master/0682-baseball-game) |
 | [0860-lemonade-change](https://github.com/jadoo12343/leetcode_solution/tree/master/0860-lemonade-change) |
+| [0877-stone-game](https://github.com/jadoo12343/leetcode_solution/tree/master/0877-stone-game) |
 | [0896-monotonic-array](https://github.com/jadoo12343/leetcode_solution/tree/master/0896-monotonic-array) |
 | [0976-largest-perimeter-triangle](https://github.com/jadoo12343/leetcode_solution/tree/master/0976-largest-perimeter-triangle) |
 | [1260-shift-2d-grid](https://github.com/jadoo12343/leetcode_solution/tree/master/1260-shift-2d-grid) |
@@ -36,6 +37,7 @@ all the leetcode problem's solution i have completed
 | [0067-add-binary](https://github.com/jadoo12343/leetcode_solution/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/jadoo12343/leetcode_solution/tree/master/0412-fizz-buzz) |
 | [0486-predict-the-winner](https://github.com/jadoo12343/leetcode_solution/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/jadoo12343/leetcode_solution/tree/master/0877-stone-game) |
 | [0976-largest-perimeter-triangle](https://github.com/jadoo12343/leetcode_solution/tree/master/0976-largest-perimeter-triangle) |
 | [1041-robot-bounded-in-circle](https://github.com/jadoo12343/leetcode_solution/tree/master/1041-robot-bounded-in-circle) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/jadoo12343/leetcode_solution/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -167,8 +169,10 @@ all the leetcode problem's solution i have completed
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/jadoo12343/leetcode_solution/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/jadoo12343/leetcode_solution/tree/master/0877-stone-game) |
 ## Game Theory
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/jadoo12343/leetcode_solution/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/jadoo12343/leetcode_solution/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
