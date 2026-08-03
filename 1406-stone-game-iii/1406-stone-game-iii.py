@@ -1,21 +1,17 @@
 class Solution:
     def stoneGameIII(self, stoneValue: List[int]) -> str:
-        n = len(stoneValue)
-        dp = [0] * (n + 1)
         
-        for i in range(n - 1, -1, -1):
-            best = float('-inf')
-            running_sum = 0
-            for k in range(1, 4):
-                if i + k > n:
-                    break
-                running_sum += stoneValue[i + k - 1]
-                best = max(best, running_sum - dp[i + k])
-            dp[i] = best
-        
-        if dp[0] > 0:
+        s1, s2, s3 = 0, 0, 0
+        tot = 0
+
+        for value in reversed(stoneValue):
+            tot += value
+            s1, s2, s3 = tot-min(s1,s2,s3),s1,s2
+        bob = tot - s1
+        if s1 > bob:
             return "Alice"
-        elif dp[0] < 0:
+        if s1 < bob:
             return "Bob"
-        else:
+        if s1 == bob:
             return "Tie"
+        
