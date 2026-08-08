@@ -22,6 +22,7 @@ all the leetcode problem's solution i have completed
 | [1260-shift-2d-grid](https://github.com/jadoo12343/leetcode_solution/tree/master/1260-shift-2d-grid) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/jadoo12343/leetcode_solution/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1406-stone-game-iii](https://github.com/jadoo12343/leetcode_solution/tree/master/1406-stone-game-iii) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/jadoo12343/leetcode_solution/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/jadoo12343/leetcode_solution/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/jadoo12343/leetcode_solution/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1572-matrix-diagonal-sum](https://github.com/jadoo12343/leetcode_solution/tree/master/1572-matrix-diagonal-sum) |
@@ -69,6 +70,7 @@ all the leetcode problem's solution i have completed
 | [0389-find-the-difference](https://github.com/jadoo12343/leetcode_solution/tree/master/0389-find-the-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/jadoo12343/leetcode_solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [0976-largest-perimeter-triangle](https://github.com/jadoo12343/leetcode_solution/tree/master/0976-largest-perimeter-triangle) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/jadoo12343/leetcode_solution/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/jadoo12343/leetcode_solution/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/jadoo12343/leetcode_solution/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/jadoo12343/leetcode_solution/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -209,4 +211,8 @@ all the leetcode problem's solution i have completed
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/jadoo12343/leetcode_solution/tree/master/3345-smallest-divisible-digit-product-i) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/jadoo12343/leetcode_solution/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
