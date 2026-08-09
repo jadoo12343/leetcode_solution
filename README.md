@@ -110,6 +110,7 @@ all the leetcode problem's solution i have completed
 | ------- |
 | [0013-roman-to-integer](https://github.com/jadoo12343/leetcode_solution/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/jadoo12343/leetcode_solution/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/jadoo12343/leetcode_solution/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jadoo12343/leetcode_solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0043-multiply-strings](https://github.com/jadoo12343/leetcode_solution/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/jadoo12343/leetcode_solution/tree/master/0058-length-of-last-word) |
@@ -159,6 +160,7 @@ all the leetcode problem's solution i have completed
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/jadoo12343/leetcode_solution/tree/master/0020-valid-parentheses) |
 | [0682-baseball-game](https://github.com/jadoo12343/leetcode_solution/tree/master/0682-baseball-game) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/jadoo12343/leetcode_solution/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Greedy
@@ -218,4 +220,8 @@ all the leetcode problem's solution i have completed
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/jadoo12343/leetcode_solution/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/jadoo12343/leetcode_solution/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
