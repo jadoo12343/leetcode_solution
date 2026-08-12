@@ -9,6 +9,7 @@ all the leetcode problem's solution i have completed
 | [0001-two-sum](https://github.com/jadoo12343/leetcode_solution/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/jadoo12343/leetcode_solution/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/jadoo12343/leetcode_solution/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/jadoo12343/leetcode_solution/tree/master/0027-remove-element) |
 | [0054-spiral-matrix](https://github.com/jadoo12343/leetcode_solution/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/jadoo12343/leetcode_solution/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/jadoo12343/leetcode_solution/tree/master/0073-set-matrix-zeroes) |
@@ -62,6 +63,7 @@ all the leetcode problem's solution i have completed
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/jadoo12343/leetcode_solution/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/jadoo12343/leetcode_solution/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jadoo12343/leetcode_solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0283-move-zeroes](https://github.com/jadoo12343/leetcode_solution/tree/master/0283-move-zeroes) |
 | [0876-middle-of-the-linked-list](https://github.com/jadoo12343/leetcode_solution/tree/master/0876-middle-of-the-linked-list) |
