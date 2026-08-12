@@ -1,17 +1,11 @@
 class Solution:
     def removeDuplicates(self, nums: List[int]) -> int:
-        k=0
-        n=len(nums)
-        seen=[]
-        for i in range(n):
-            if nums[i] not in seen:
-                seen.append(nums[i])
-                k+=1
-            else:
-                nums[i]=100
-        nums.sort()
-        return k 
-        return nums
-                
-
+        i=0
+        for j in range(1,len(nums)):
+            if nums[i]!=nums[j]:
+                i+=1
+                nums[i]=nums[j]
+        return i+1
+        
+        
         
