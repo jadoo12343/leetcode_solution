@@ -10,6 +10,7 @@ all the leetcode problem's solution i have completed
 | [0014-longest-common-prefix](https://github.com/jadoo12343/leetcode_solution/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/jadoo12343/leetcode_solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/jadoo12343/leetcode_solution/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/jadoo12343/leetcode_solution/tree/master/0035-search-insert-position) |
 | [0054-spiral-matrix](https://github.com/jadoo12343/leetcode_solution/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/jadoo12343/leetcode_solution/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/jadoo12343/leetcode_solution/tree/master/0073-set-matrix-zeroes) |
@@ -237,4 +238,8 @@ all the leetcode problem's solution i have completed
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/jadoo12343/leetcode_solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/jadoo12343/leetcode_solution/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/jadoo12343/leetcode_solution/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
