@@ -29,6 +29,7 @@ all the leetcode problem's solution i have completed
 | [1672-richest-customer-wealth](https://github.com/jadoo12343/leetcode_solution/tree/master/1672-richest-customer-wealth) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/jadoo12343/leetcode_solution/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/jadoo12343/leetcode_solution/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/jadoo12343/leetcode_solution/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3731-find-missing-elements](https://github.com/jadoo12343/leetcode_solution/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/jadoo12343/leetcode_solution/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Math
@@ -152,6 +153,7 @@ all the leetcode problem's solution i have completed
 | [0383-ransom-note](https://github.com/jadoo12343/leetcode_solution/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/jadoo12343/leetcode_solution/tree/master/0389-find-the-difference) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/jadoo12343/leetcode_solution/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/jadoo12343/leetcode_solution/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/jadoo12343/leetcode_solution/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3731-find-missing-elements](https://github.com/jadoo12343/leetcode_solution/tree/master/3731-find-missing-elements) |
 ## Counting
@@ -230,4 +232,5 @@ all the leetcode problem's solution i have completed
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/jadoo12343/leetcode_solution/tree/master/0003-longest-substring-without-repeating-characters) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/jadoo12343/leetcode_solution/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 <!---LeetCode Topics End-->
