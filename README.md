@@ -15,6 +15,7 @@ all the leetcode problem's solution i have completed
 | [0066-plus-one](https://github.com/jadoo12343/leetcode_solution/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/jadoo12343/leetcode_solution/tree/master/0073-set-matrix-zeroes) |
 | [0088-merge-sorted-array](https://github.com/jadoo12343/leetcode_solution/tree/master/0088-merge-sorted-array) |
+| [0136-single-number](https://github.com/jadoo12343/leetcode_solution/tree/master/0136-single-number) |
 | [0283-move-zeroes](https://github.com/jadoo12343/leetcode_solution/tree/master/0283-move-zeroes) |
 | [0486-predict-the-winner](https://github.com/jadoo12343/leetcode_solution/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/jadoo12343/leetcode_solution/tree/master/0628-maximum-product-of-three-numbers) |
@@ -142,6 +143,7 @@ all the leetcode problem's solution i have completed
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/jadoo12343/leetcode_solution/tree/master/0067-add-binary) |
+| [0136-single-number](https://github.com/jadoo12343/leetcode_solution/tree/master/0136-single-number) |
 | [0389-find-the-difference](https://github.com/jadoo12343/leetcode_solution/tree/master/0389-find-the-difference) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/jadoo12343/leetcode_solution/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Linked List
