@@ -45,6 +45,7 @@ all the leetcode problem's solution i have completed
 | [0050-powx-n](https://github.com/jadoo12343/leetcode_solution/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/jadoo12343/leetcode_solution/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/jadoo12343/leetcode_solution/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/jadoo12343/leetcode_solution/tree/master/0069-sqrtx) |
 | [0412-fizz-buzz](https://github.com/jadoo12343/leetcode_solution/tree/master/0412-fizz-buzz) |
 | [0486-predict-the-winner](https://github.com/jadoo12343/leetcode_solution/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/jadoo12343/leetcode_solution/tree/master/0628-maximum-product-of-three-numbers) |
@@ -242,4 +243,9 @@ all the leetcode problem's solution i have completed
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/jadoo12343/leetcode_solution/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/jadoo12343/leetcode_solution/tree/master/0069-sqrtx) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/jadoo12343/leetcode_solution/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
