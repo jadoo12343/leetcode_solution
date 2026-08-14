@@ -7,6 +7,7 @@ all the leetcode problem's solution i have completed
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/jadoo12343/leetcode_solution/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/jadoo12343/leetcode_solution/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/jadoo12343/leetcode_solution/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/jadoo12343/leetcode_solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/jadoo12343/leetcode_solution/tree/master/0027-remove-element) |
@@ -255,10 +256,15 @@ all the leetcode problem's solution i have completed
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/jadoo12343/leetcode_solution/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/jadoo12343/leetcode_solution/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/jadoo12343/leetcode_solution/tree/master/0069-sqrtx) |
 ## Newton's Method
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/jadoo12343/leetcode_solution/tree/master/0069-sqrtx) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/jadoo12343/leetcode_solution/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
