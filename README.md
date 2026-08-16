@@ -70,6 +70,7 @@ all the leetcode problem's solution i have completed
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/jadoo12343/leetcode_solution/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/jadoo12343/leetcode_solution/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/jadoo12343/leetcode_solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/jadoo12343/leetcode_solution/tree/master/0027-remove-element) |
@@ -126,6 +127,7 @@ all the leetcode problem's solution i have completed
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/jadoo12343/leetcode_solution/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/jadoo12343/leetcode_solution/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/jadoo12343/leetcode_solution/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/jadoo12343/leetcode_solution/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/jadoo12343/leetcode_solution/tree/master/0013-roman-to-integer) |
@@ -217,6 +219,7 @@ all the leetcode problem's solution i have completed
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/jadoo12343/leetcode_solution/tree/master/0005-longest-palindromic-substring) |
 | [0486-predict-the-winner](https://github.com/jadoo12343/leetcode_solution/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/jadoo12343/leetcode_solution/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/jadoo12343/leetcode_solution/tree/master/1406-stone-game-iii) |
@@ -270,4 +273,8 @@ all the leetcode problem's solution i have completed
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/jadoo12343/leetcode_solution/tree/master/0004-median-of-two-sorted-arrays) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/jadoo12343/leetcode_solution/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
