@@ -74,6 +74,7 @@ all the leetcode problem's solution i have completed
 | [0005-longest-palindromic-substring](https://github.com/jadoo12343/leetcode_solution/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/jadoo12343/leetcode_solution/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/jadoo12343/leetcode_solution/tree/master/0015-3sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/jadoo12343/leetcode_solution/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/jadoo12343/leetcode_solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/jadoo12343/leetcode_solution/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jadoo12343/leetcode_solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -163,6 +164,7 @@ all the leetcode problem's solution i have completed
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/jadoo12343/leetcode_solution/tree/master/0002-add-two-numbers) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/jadoo12343/leetcode_solution/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/jadoo12343/leetcode_solution/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/jadoo12343/leetcode_solution/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/jadoo12343/leetcode_solution/tree/master/0876-middle-of-the-linked-list) |
