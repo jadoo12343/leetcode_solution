@@ -22,6 +22,7 @@ all the leetcode problem's solution i have completed
 | [0136-single-number](https://github.com/jadoo12343/leetcode_solution/tree/master/0136-single-number) |
 | [0283-move-zeroes](https://github.com/jadoo12343/leetcode_solution/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/jadoo12343/leetcode_solution/tree/master/0287-find-the-duplicate-number) |
+| [0349-intersection-of-two-arrays](https://github.com/jadoo12343/leetcode_solution/tree/master/0349-intersection-of-two-arrays) |
 | [0486-predict-the-winner](https://github.com/jadoo12343/leetcode_solution/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/jadoo12343/leetcode_solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [0682-baseball-game](https://github.com/jadoo12343/leetcode_solution/tree/master/0682-baseball-game) |
@@ -87,6 +88,7 @@ all the leetcode problem's solution i have completed
 | [0283-move-zeroes](https://github.com/jadoo12343/leetcode_solution/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/jadoo12343/leetcode_solution/tree/master/0287-find-the-duplicate-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/jadoo12343/leetcode_solution/tree/master/0345-reverse-vowels-of-a-string) |
+| [0349-intersection-of-two-arrays](https://github.com/jadoo12343/leetcode_solution/tree/master/0349-intersection-of-two-arrays) |
 | [0876-middle-of-the-linked-list](https://github.com/jadoo12343/leetcode_solution/tree/master/0876-middle-of-the-linked-list) |
 | [1768-merge-strings-alternately](https://github.com/jadoo12343/leetcode_solution/tree/master/1768-merge-strings-alternately) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/jadoo12343/leetcode_solution/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -96,6 +98,7 @@ all the leetcode problem's solution i have completed
 | [0015-3sum](https://github.com/jadoo12343/leetcode_solution/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/jadoo12343/leetcode_solution/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/jadoo12343/leetcode_solution/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/jadoo12343/leetcode_solution/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/jadoo12343/leetcode_solution/tree/master/0389-find-the-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/jadoo12343/leetcode_solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [0976-largest-perimeter-triangle](https://github.com/jadoo12343/leetcode_solution/tree/master/0976-largest-perimeter-triangle) |
@@ -187,6 +190,7 @@ all the leetcode problem's solution i have completed
 | [0013-roman-to-integer](https://github.com/jadoo12343/leetcode_solution/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/jadoo12343/leetcode_solution/tree/master/0073-set-matrix-zeroes) |
 | [0242-valid-anagram](https://github.com/jadoo12343/leetcode_solution/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/jadoo12343/leetcode_solution/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/jadoo12343/leetcode_solution/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/jadoo12343/leetcode_solution/tree/master/0389-find-the-difference) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/jadoo12343/leetcode_solution/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
@@ -282,6 +286,7 @@ all the leetcode problem's solution i have completed
 | [0035-search-insert-position](https://github.com/jadoo12343/leetcode_solution/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/jadoo12343/leetcode_solution/tree/master/0069-sqrtx) |
 | [0287-find-the-duplicate-number](https://github.com/jadoo12343/leetcode_solution/tree/master/0287-find-the-duplicate-number) |
+| [0349-intersection-of-two-arrays](https://github.com/jadoo12343/leetcode_solution/tree/master/0349-intersection-of-two-arrays) |
 ## Newton's Method
 |  |
 | ------- |
