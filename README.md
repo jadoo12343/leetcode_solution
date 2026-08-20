@@ -23,6 +23,7 @@ all the leetcode problem's solution i have completed
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/jadoo12343/leetcode_solution/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/jadoo12343/leetcode_solution/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/jadoo12343/leetcode_solution/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/jadoo12343/leetcode_solution/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/jadoo12343/leetcode_solution/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/jadoo12343/leetcode_solution/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/jadoo12343/leetcode_solution/tree/master/0349-intersection-of-two-arrays) |
@@ -63,6 +64,7 @@ all the leetcode problem's solution i have completed
 | [0066-plus-one](https://github.com/jadoo12343/leetcode_solution/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/jadoo12343/leetcode_solution/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/jadoo12343/leetcode_solution/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/jadoo12343/leetcode_solution/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/jadoo12343/leetcode_solution/tree/master/0412-fizz-buzz) |
 | [0486-predict-the-winner](https://github.com/jadoo12343/leetcode_solution/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/jadoo12343/leetcode_solution/tree/master/0628-maximum-product-of-three-numbers) |
@@ -105,6 +107,7 @@ all the leetcode problem's solution i have completed
 | [0015-3sum](https://github.com/jadoo12343/leetcode_solution/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/jadoo12343/leetcode_solution/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/jadoo12343/leetcode_solution/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/jadoo12343/leetcode_solution/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/jadoo12343/leetcode_solution/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/jadoo12343/leetcode_solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/jadoo12343/leetcode_solution/tree/master/0389-find-the-difference) |
@@ -179,6 +182,7 @@ all the leetcode problem's solution i have completed
 | [0029-divide-two-integers](https://github.com/jadoo12343/leetcode_solution/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/jadoo12343/leetcode_solution/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/jadoo12343/leetcode_solution/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/jadoo12343/leetcode_solution/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/jadoo12343/leetcode_solution/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/jadoo12343/leetcode_solution/tree/master/0389-find-the-difference) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/jadoo12343/leetcode_solution/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -199,6 +203,7 @@ all the leetcode problem's solution i have completed
 | [0013-roman-to-integer](https://github.com/jadoo12343/leetcode_solution/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/jadoo12343/leetcode_solution/tree/master/0073-set-matrix-zeroes) |
 | [0242-valid-anagram](https://github.com/jadoo12343/leetcode_solution/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/jadoo12343/leetcode_solution/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/jadoo12343/leetcode_solution/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/jadoo12343/leetcode_solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/jadoo12343/leetcode_solution/tree/master/0383-ransom-note) |
@@ -297,6 +302,7 @@ all the leetcode problem's solution i have completed
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/jadoo12343/leetcode_solution/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/jadoo12343/leetcode_solution/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/jadoo12343/leetcode_solution/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/jadoo12343/leetcode_solution/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/jadoo12343/leetcode_solution/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/jadoo12343/leetcode_solution/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/jadoo12343/leetcode_solution/tree/master/0350-intersection-of-two-arrays-ii) |
