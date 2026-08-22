@@ -80,6 +80,7 @@ all the leetcode problem's solution i have completed
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/jadoo12343/leetcode_solution/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/jadoo12343/leetcode_solution/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/jadoo12343/leetcode_solution/tree/master/3536-maximum-product-of-two-digits) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/jadoo12343/leetcode_solution/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/jadoo12343/leetcode_solution/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Two Pointers
 |  |
