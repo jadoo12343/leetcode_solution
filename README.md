@@ -96,6 +96,7 @@ all the leetcode problem's solution i have completed
 | [0031-next-permutation](https://github.com/jadoo12343/leetcode_solution/tree/master/0031-next-permutation) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/jadoo12343/leetcode_solution/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/jadoo12343/leetcode_solution/tree/master/0088-merge-sorted-array) |
+| [0141-linked-list-cycle](https://github.com/jadoo12343/leetcode_solution/tree/master/0141-linked-list-cycle) |
 | [0283-move-zeroes](https://github.com/jadoo12343/leetcode_solution/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/jadoo12343/leetcode_solution/tree/master/0287-find-the-duplicate-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/jadoo12343/leetcode_solution/tree/master/0345-reverse-vowels-of-a-string) |
@@ -198,6 +199,7 @@ all the leetcode problem's solution i have completed
 | [0019-remove-nth-node-from-end-of-list](https://github.com/jadoo12343/leetcode_solution/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/jadoo12343/leetcode_solution/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/jadoo12343/leetcode_solution/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0141-linked-list-cycle](https://github.com/jadoo12343/leetcode_solution/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/jadoo12343/leetcode_solution/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/jadoo12343/leetcode_solution/tree/master/0876-middle-of-the-linked-list) |
 ## Hash Table
@@ -208,6 +210,7 @@ all the leetcode problem's solution i have completed
 | [0012-integer-to-roman](https://github.com/jadoo12343/leetcode_solution/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/jadoo12343/leetcode_solution/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/jadoo12343/leetcode_solution/tree/master/0073-set-matrix-zeroes) |
+| [0141-linked-list-cycle](https://github.com/jadoo12343/leetcode_solution/tree/master/0141-linked-list-cycle) |
 | [0242-valid-anagram](https://github.com/jadoo12343/leetcode_solution/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/jadoo12343/leetcode_solution/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/jadoo12343/leetcode_solution/tree/master/0349-intersection-of-two-arrays) |
@@ -334,5 +337,6 @@ all the leetcode problem's solution i have completed
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/jadoo12343/leetcode_solution/tree/master/0141-linked-list-cycle) |
 | [0287-find-the-duplicate-number](https://github.com/jadoo12343/leetcode_solution/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
