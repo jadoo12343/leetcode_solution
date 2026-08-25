@@ -49,6 +49,7 @@ all the leetcode problem's solution i have completed
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/jadoo12343/leetcode_solution/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/jadoo12343/leetcode_solution/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/jadoo12343/leetcode_solution/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/jadoo12343/leetcode_solution/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/jadoo12343/leetcode_solution/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/jadoo12343/leetcode_solution/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Math
@@ -227,6 +228,7 @@ all the leetcode problem's solution i have completed
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/jadoo12343/leetcode_solution/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/jadoo12343/leetcode_solution/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/jadoo12343/leetcode_solution/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/jadoo12343/leetcode_solution/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/jadoo12343/leetcode_solution/tree/master/3731-find-missing-elements) |
 ## Counting
 |  |
