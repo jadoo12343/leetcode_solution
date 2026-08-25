@@ -322,6 +322,7 @@ all the leetcode problem's solution i have completed
 | [0287-find-the-duplicate-number](https://github.com/jadoo12343/leetcode_solution/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/jadoo12343/leetcode_solution/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/jadoo12343/leetcode_solution/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0374-guess-number-higher-or-lower](https://github.com/jadoo12343/leetcode_solution/tree/master/0374-guess-number-higher-or-lower) |
 | [0441-arranging-coins](https://github.com/jadoo12343/leetcode_solution/tree/master/0441-arranging-coins) |
 ## Newton's Method
 |  |
@@ -344,4 +345,8 @@ all the leetcode problem's solution i have completed
 | ------- |
 | [0141-linked-list-cycle](https://github.com/jadoo12343/leetcode_solution/tree/master/0141-linked-list-cycle) |
 | [0287-find-the-duplicate-number](https://github.com/jadoo12343/leetcode_solution/tree/master/0287-find-the-duplicate-number) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/jadoo12343/leetcode_solution/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
