@@ -77,6 +77,7 @@ all the leetcode problem's solution i have completed
 | [0810-chalkboard-xor-game](https://github.com/jadoo12343/leetcode_solution/tree/master/0810-chalkboard-xor-game) |
 | [0877-stone-game](https://github.com/jadoo12343/leetcode_solution/tree/master/0877-stone-game) |
 | [0976-largest-perimeter-triangle](https://github.com/jadoo12343/leetcode_solution/tree/master/0976-largest-perimeter-triangle) |
+| [1025-divisor-game](https://github.com/jadoo12343/leetcode_solution/tree/master/1025-divisor-game) |
 | [1041-robot-bounded-in-circle](https://github.com/jadoo12343/leetcode_solution/tree/master/1041-robot-bounded-in-circle) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/jadoo12343/leetcode_solution/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1406-stone-game-iii](https://github.com/jadoo12343/leetcode_solution/tree/master/1406-stone-game-iii) |
@@ -283,6 +284,7 @@ all the leetcode problem's solution i have completed
 | [0005-longest-palindromic-substring](https://github.com/jadoo12343/leetcode_solution/tree/master/0005-longest-palindromic-substring) |
 | [0486-predict-the-winner](https://github.com/jadoo12343/leetcode_solution/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/jadoo12343/leetcode_solution/tree/master/0877-stone-game) |
+| [1025-divisor-game](https://github.com/jadoo12343/leetcode_solution/tree/master/1025-divisor-game) |
 | [1406-stone-game-iii](https://github.com/jadoo12343/leetcode_solution/tree/master/1406-stone-game-iii) |
 ## Game Theory
 |  |
@@ -291,6 +293,7 @@ all the leetcode problem's solution i have completed
 | [0486-predict-the-winner](https://github.com/jadoo12343/leetcode_solution/tree/master/0486-predict-the-winner) |
 | [0810-chalkboard-xor-game](https://github.com/jadoo12343/leetcode_solution/tree/master/0810-chalkboard-xor-game) |
 | [0877-stone-game](https://github.com/jadoo12343/leetcode_solution/tree/master/0877-stone-game) |
+| [1025-divisor-game](https://github.com/jadoo12343/leetcode_solution/tree/master/1025-divisor-game) |
 | [1406-stone-game-iii](https://github.com/jadoo12343/leetcode_solution/tree/master/1406-stone-game-iii) |
 | [1927-sum-game](https://github.com/jadoo12343/leetcode_solution/tree/master/1927-sum-game) |
 ## Minimax
@@ -381,6 +384,7 @@ all the leetcode problem's solution i have completed
 | [0292-nim-game](https://github.com/jadoo12343/leetcode_solution/tree/master/0292-nim-game) |
 | [0319-bulb-switcher](https://github.com/jadoo12343/leetcode_solution/tree/master/0319-bulb-switcher) |
 | [0810-chalkboard-xor-game](https://github.com/jadoo12343/leetcode_solution/tree/master/0810-chalkboard-xor-game) |
+| [1025-divisor-game](https://github.com/jadoo12343/leetcode_solution/tree/master/1025-divisor-game) |
 ## Nim Game
 |  |
 | ------- |
@@ -390,4 +394,5 @@ all the leetcode problem's solution i have completed
 | ------- |
 | [0292-nim-game](https://github.com/jadoo12343/leetcode_solution/tree/master/0292-nim-game) |
 | [0810-chalkboard-xor-game](https://github.com/jadoo12343/leetcode_solution/tree/master/0810-chalkboard-xor-game) |
+| [1025-divisor-game](https://github.com/jadoo12343/leetcode_solution/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
