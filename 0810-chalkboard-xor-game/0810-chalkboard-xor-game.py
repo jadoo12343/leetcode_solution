@@ -1,10 +1,8 @@
 class Solution:
-    def xorGame(self, nums: List[int]) -> bool:
-        totalXor = 0
-        for value in nums:
-            totalXor ^= value
-        
-        isXorZero = (totalXor == 0)
-        hasEvenLength = (len(nums) % 2 == 0)
-        
-        return isXorZero or hasEvenLength
+    def xorGame(self, nums):
+        xor = 0
+
+        for num in nums:
+            xor ^= num
+
+        return xor == 0 or len(nums) % 2 == 0
