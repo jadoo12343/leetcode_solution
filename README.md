@@ -67,6 +67,7 @@ all the leetcode problem's solution i have completed
 | [0067-add-binary](https://github.com/jadoo12343/leetcode_solution/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/jadoo12343/leetcode_solution/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/jadoo12343/leetcode_solution/tree/master/0268-missing-number) |
+| [0292-nim-game](https://github.com/jadoo12343/leetcode_solution/tree/master/0292-nim-game) |
 | [0412-fizz-buzz](https://github.com/jadoo12343/leetcode_solution/tree/master/0412-fizz-buzz) |
 | [0441-arranging-coins](https://github.com/jadoo12343/leetcode_solution/tree/master/0441-arranging-coins) |
 | [0486-predict-the-winner](https://github.com/jadoo12343/leetcode_solution/tree/master/0486-predict-the-winner) |
@@ -282,6 +283,7 @@ all the leetcode problem's solution i have completed
 ## Game Theory
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/jadoo12343/leetcode_solution/tree/master/0292-nim-game) |
 | [0486-predict-the-winner](https://github.com/jadoo12343/leetcode_solution/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/jadoo12343/leetcode_solution/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/jadoo12343/leetcode_solution/tree/master/1406-stone-game-iii) |
@@ -289,6 +291,7 @@ all the leetcode problem's solution i have completed
 ## Minimax
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/jadoo12343/leetcode_solution/tree/master/0292-nim-game) |
 | [1406-stone-game-iii](https://github.com/jadoo12343/leetcode_solution/tree/master/1406-stone-game-iii) |
 ## Zero-Sum Game
 |  |
@@ -366,4 +369,16 @@ all the leetcode problem's solution i have completed
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/jadoo12343/leetcode_solution/tree/master/0023-merge-k-sorted-lists) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/jadoo12343/leetcode_solution/tree/master/0292-nim-game) |
+## Nim Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/jadoo12343/leetcode_solution/tree/master/0292-nim-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/jadoo12343/leetcode_solution/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
