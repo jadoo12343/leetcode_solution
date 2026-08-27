@@ -68,6 +68,7 @@ all the leetcode problem's solution i have completed
 | [0069-sqrtx](https://github.com/jadoo12343/leetcode_solution/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/jadoo12343/leetcode_solution/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/jadoo12343/leetcode_solution/tree/master/0292-nim-game) |
+| [0319-bulb-switcher](https://github.com/jadoo12343/leetcode_solution/tree/master/0319-bulb-switcher) |
 | [0412-fizz-buzz](https://github.com/jadoo12343/leetcode_solution/tree/master/0412-fizz-buzz) |
 | [0441-arranging-coins](https://github.com/jadoo12343/leetcode_solution/tree/master/0441-arranging-coins) |
 | [0486-predict-the-winner](https://github.com/jadoo12343/leetcode_solution/tree/master/0486-predict-the-winner) |
@@ -373,6 +374,7 @@ all the leetcode problem's solution i have completed
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/jadoo12343/leetcode_solution/tree/master/0292-nim-game) |
+| [0319-bulb-switcher](https://github.com/jadoo12343/leetcode_solution/tree/master/0319-bulb-switcher) |
 ## Nim Game
 |  |
 | ------- |
