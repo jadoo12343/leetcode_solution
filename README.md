@@ -79,6 +79,7 @@ all the leetcode problem's solution i have completed
 | [0976-largest-perimeter-triangle](https://github.com/jadoo12343/leetcode_solution/tree/master/0976-largest-perimeter-triangle) |
 | [1025-divisor-game](https://github.com/jadoo12343/leetcode_solution/tree/master/1025-divisor-game) |
 | [1041-robot-bounded-in-circle](https://github.com/jadoo12343/leetcode_solution/tree/master/1041-robot-bounded-in-circle) |
+| [1227-airplane-seat-assignment-probability](https://github.com/jadoo12343/leetcode_solution/tree/master/1227-airplane-seat-assignment-probability) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/jadoo12343/leetcode_solution/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1406-stone-game-iii](https://github.com/jadoo12343/leetcode_solution/tree/master/1406-stone-game-iii) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/jadoo12343/leetcode_solution/tree/master/1523-count-odd-numbers-in-an-interval-range) |
@@ -285,6 +286,7 @@ all the leetcode problem's solution i have completed
 | [0486-predict-the-winner](https://github.com/jadoo12343/leetcode_solution/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/jadoo12343/leetcode_solution/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/jadoo12343/leetcode_solution/tree/master/1025-divisor-game) |
+| [1227-airplane-seat-assignment-probability](https://github.com/jadoo12343/leetcode_solution/tree/master/1227-airplane-seat-assignment-probability) |
 | [1406-stone-game-iii](https://github.com/jadoo12343/leetcode_solution/tree/master/1406-stone-game-iii) |
 ## Game Theory
 |  |
@@ -385,6 +387,7 @@ all the leetcode problem's solution i have completed
 | [0319-bulb-switcher](https://github.com/jadoo12343/leetcode_solution/tree/master/0319-bulb-switcher) |
 | [0810-chalkboard-xor-game](https://github.com/jadoo12343/leetcode_solution/tree/master/0810-chalkboard-xor-game) |
 | [1025-divisor-game](https://github.com/jadoo12343/leetcode_solution/tree/master/1025-divisor-game) |
+| [1227-airplane-seat-assignment-probability](https://github.com/jadoo12343/leetcode_solution/tree/master/1227-airplane-seat-assignment-probability) |
 ## Nim Game
 |  |
 | ------- |
@@ -395,4 +398,8 @@ all the leetcode problem's solution i have completed
 | [0292-nim-game](https://github.com/jadoo12343/leetcode_solution/tree/master/0292-nim-game) |
 | [0810-chalkboard-xor-game](https://github.com/jadoo12343/leetcode_solution/tree/master/0810-chalkboard-xor-game) |
 | [1025-divisor-game](https://github.com/jadoo12343/leetcode_solution/tree/master/1025-divisor-game) |
+## Probability and Statistics
+|  |
+| ------- |
+| [1227-airplane-seat-assignment-probability](https://github.com/jadoo12343/leetcode_solution/tree/master/1227-airplane-seat-assignment-probability) |
 <!---LeetCode Topics End-->
