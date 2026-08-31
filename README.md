@@ -89,6 +89,7 @@ all the leetcode problem's solution i have completed
 | [1822-sign-of-the-product-of-an-array](https://github.com/jadoo12343/leetcode_solution/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1927-sum-game](https://github.com/jadoo12343/leetcode_solution/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/jadoo12343/leetcode_solution/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2396-strictly-palindromic-number](https://github.com/jadoo12343/leetcode_solution/tree/master/2396-strictly-palindromic-number) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/jadoo12343/leetcode_solution/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/jadoo12343/leetcode_solution/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/jadoo12343/leetcode_solution/tree/master/3536-maximum-product-of-two-digits) |
@@ -116,6 +117,7 @@ all the leetcode problem's solution i have completed
 | [0350-intersection-of-two-arrays-ii](https://github.com/jadoo12343/leetcode_solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/jadoo12343/leetcode_solution/tree/master/0876-middle-of-the-linked-list) |
 | [1768-merge-strings-alternately](https://github.com/jadoo12343/leetcode_solution/tree/master/1768-merge-strings-alternately) |
+| [2396-strictly-palindromic-number](https://github.com/jadoo12343/leetcode_solution/tree/master/2396-strictly-palindromic-number) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/jadoo12343/leetcode_solution/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting
 |  |
@@ -395,6 +397,7 @@ all the leetcode problem's solution i have completed
 | [1033-moving-stones-until-consecutive](https://github.com/jadoo12343/leetcode_solution/tree/master/1033-moving-stones-until-consecutive) |
 | [1227-airplane-seat-assignment-probability](https://github.com/jadoo12343/leetcode_solution/tree/master/1227-airplane-seat-assignment-probability) |
 | [1503-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/jadoo12343/leetcode_solution/tree/master/1503-last-moment-before-all-ants-fall-out-of-a-plank) |
+| [2396-strictly-palindromic-number](https://github.com/jadoo12343/leetcode_solution/tree/master/2396-strictly-palindromic-number) |
 ## Nim Game
 |  |
 | ------- |
