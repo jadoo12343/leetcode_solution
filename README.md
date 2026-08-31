@@ -79,6 +79,7 @@ all the leetcode problem's solution i have completed
 | [0877-stone-game](https://github.com/jadoo12343/leetcode_solution/tree/master/0877-stone-game) |
 | [0976-largest-perimeter-triangle](https://github.com/jadoo12343/leetcode_solution/tree/master/0976-largest-perimeter-triangle) |
 | [1025-divisor-game](https://github.com/jadoo12343/leetcode_solution/tree/master/1025-divisor-game) |
+| [1033-moving-stones-until-consecutive](https://github.com/jadoo12343/leetcode_solution/tree/master/1033-moving-stones-until-consecutive) |
 | [1041-robot-bounded-in-circle](https://github.com/jadoo12343/leetcode_solution/tree/master/1041-robot-bounded-in-circle) |
 | [1227-airplane-seat-assignment-probability](https://github.com/jadoo12343/leetcode_solution/tree/master/1227-airplane-seat-assignment-probability) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/jadoo12343/leetcode_solution/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -389,6 +390,7 @@ all the leetcode problem's solution i have completed
 | [0319-bulb-switcher](https://github.com/jadoo12343/leetcode_solution/tree/master/0319-bulb-switcher) |
 | [0810-chalkboard-xor-game](https://github.com/jadoo12343/leetcode_solution/tree/master/0810-chalkboard-xor-game) |
 | [1025-divisor-game](https://github.com/jadoo12343/leetcode_solution/tree/master/1025-divisor-game) |
+| [1033-moving-stones-until-consecutive](https://github.com/jadoo12343/leetcode_solution/tree/master/1033-moving-stones-until-consecutive) |
 | [1227-airplane-seat-assignment-probability](https://github.com/jadoo12343/leetcode_solution/tree/master/1227-airplane-seat-assignment-probability) |
 ## Nim Game
 |  |
