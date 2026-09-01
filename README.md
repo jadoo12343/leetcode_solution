@@ -51,6 +51,7 @@ all the leetcode problem's solution i have completed
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/jadoo12343/leetcode_solution/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2419-longest-subarray-with-maximum-bitwise-and](https://github.com/jadoo12343/leetcode_solution/tree/master/2419-longest-subarray-with-maximum-bitwise-and) |
 | [2425-bitwise-xor-of-all-pairings](https://github.com/jadoo12343/leetcode_solution/tree/master/2425-bitwise-xor-of-all-pairings) |
+| [2568-minimum-impossible-or](https://github.com/jadoo12343/leetcode_solution/tree/master/2568-minimum-impossible-or) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/jadoo12343/leetcode_solution/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/jadoo12343/leetcode_solution/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/jadoo12343/leetcode_solution/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -212,6 +213,7 @@ all the leetcode problem's solution i have completed
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/jadoo12343/leetcode_solution/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2419-longest-subarray-with-maximum-bitwise-and](https://github.com/jadoo12343/leetcode_solution/tree/master/2419-longest-subarray-with-maximum-bitwise-and) |
 | [2425-bitwise-xor-of-all-pairings](https://github.com/jadoo12343/leetcode_solution/tree/master/2425-bitwise-xor-of-all-pairings) |
+| [2568-minimum-impossible-or](https://github.com/jadoo12343/leetcode_solution/tree/master/2568-minimum-impossible-or) |
 ## Linked List
 |  |
 | ------- |
@@ -404,6 +406,7 @@ all the leetcode problem's solution i have completed
 | [2396-strictly-palindromic-number](https://github.com/jadoo12343/leetcode_solution/tree/master/2396-strictly-palindromic-number) |
 | [2419-longest-subarray-with-maximum-bitwise-and](https://github.com/jadoo12343/leetcode_solution/tree/master/2419-longest-subarray-with-maximum-bitwise-and) |
 | [2425-bitwise-xor-of-all-pairings](https://github.com/jadoo12343/leetcode_solution/tree/master/2425-bitwise-xor-of-all-pairings) |
+| [2568-minimum-impossible-or](https://github.com/jadoo12343/leetcode_solution/tree/master/2568-minimum-impossible-or) |
 ## Nim Game
 |  |
 | ------- |
