@@ -218,6 +218,7 @@ all the leetcode problem's solution i have completed
 | [2419-longest-subarray-with-maximum-bitwise-and](https://github.com/jadoo12343/leetcode_solution/tree/master/2419-longest-subarray-with-maximum-bitwise-and) |
 | [2425-bitwise-xor-of-all-pairings](https://github.com/jadoo12343/leetcode_solution/tree/master/2425-bitwise-xor-of-all-pairings) |
 | [2568-minimum-impossible-or](https://github.com/jadoo12343/leetcode_solution/tree/master/2568-minimum-impossible-or) |
+| [2749-minimum-operations-to-make-the-integer-zero](https://github.com/jadoo12343/leetcode_solution/tree/master/2749-minimum-operations-to-make-the-integer-zero) |
 ## Linked List
 |  |
 | ------- |
@@ -333,6 +334,7 @@ all the leetcode problem's solution i have completed
 ## Enumeration
 |  |
 | ------- |
+| [2749-minimum-operations-to-make-the-integer-zero](https://github.com/jadoo12343/leetcode_solution/tree/master/2749-minimum-operations-to-make-the-integer-zero) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/jadoo12343/leetcode_solution/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Heap (Priority Queue)
 |  |
@@ -413,6 +415,7 @@ all the leetcode problem's solution i have completed
 | [2425-bitwise-xor-of-all-pairings](https://github.com/jadoo12343/leetcode_solution/tree/master/2425-bitwise-xor-of-all-pairings) |
 | [2568-minimum-impossible-or](https://github.com/jadoo12343/leetcode_solution/tree/master/2568-minimum-impossible-or) |
 | [2731-movement-of-robots](https://github.com/jadoo12343/leetcode_solution/tree/master/2731-movement-of-robots) |
+| [2749-minimum-operations-to-make-the-integer-zero](https://github.com/jadoo12343/leetcode_solution/tree/master/2749-minimum-operations-to-make-the-integer-zero) |
 | [3227-vowels-game-in-a-string](https://github.com/jadoo12343/leetcode_solution/tree/master/3227-vowels-game-in-a-string) |
 ## Nim Game
 |  |
