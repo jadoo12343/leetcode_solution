@@ -96,6 +96,7 @@ all the leetcode problem's solution i have completed
 | [1927-sum-game](https://github.com/jadoo12343/leetcode_solution/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/jadoo12343/leetcode_solution/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2396-strictly-palindromic-number](https://github.com/jadoo12343/leetcode_solution/tree/master/2396-strictly-palindromic-number) |
+| [2745-construct-the-longest-new-string](https://github.com/jadoo12343/leetcode_solution/tree/master/2745-construct-the-longest-new-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/jadoo12343/leetcode_solution/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3227-vowels-game-in-a-string](https://github.com/jadoo12343/leetcode_solution/tree/master/3227-vowels-game-in-a-string) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/jadoo12343/leetcode_solution/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -280,6 +281,7 @@ all the leetcode problem's solution i have completed
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/jadoo12343/leetcode_solution/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1927-sum-game](https://github.com/jadoo12343/leetcode_solution/tree/master/1927-sum-game) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/jadoo12343/leetcode_solution/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2745-construct-the-longest-new-string](https://github.com/jadoo12343/leetcode_solution/tree/master/2745-construct-the-longest-new-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/jadoo12343/leetcode_solution/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/jadoo12343/leetcode_solution/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Monotonic Stack
@@ -310,6 +312,7 @@ all the leetcode problem's solution i have completed
 | [1025-divisor-game](https://github.com/jadoo12343/leetcode_solution/tree/master/1025-divisor-game) |
 | [1227-airplane-seat-assignment-probability](https://github.com/jadoo12343/leetcode_solution/tree/master/1227-airplane-seat-assignment-probability) |
 | [1406-stone-game-iii](https://github.com/jadoo12343/leetcode_solution/tree/master/1406-stone-game-iii) |
+| [2745-construct-the-longest-new-string](https://github.com/jadoo12343/leetcode_solution/tree/master/2745-construct-the-longest-new-string) |
 ## Game Theory
 |  |
 | ------- |
@@ -419,6 +422,7 @@ all the leetcode problem's solution i have completed
 | [2425-bitwise-xor-of-all-pairings](https://github.com/jadoo12343/leetcode_solution/tree/master/2425-bitwise-xor-of-all-pairings) |
 | [2568-minimum-impossible-or](https://github.com/jadoo12343/leetcode_solution/tree/master/2568-minimum-impossible-or) |
 | [2731-movement-of-robots](https://github.com/jadoo12343/leetcode_solution/tree/master/2731-movement-of-robots) |
+| [2745-construct-the-longest-new-string](https://github.com/jadoo12343/leetcode_solution/tree/master/2745-construct-the-longest-new-string) |
 | [2749-minimum-operations-to-make-the-integer-zero](https://github.com/jadoo12343/leetcode_solution/tree/master/2749-minimum-operations-to-make-the-integer-zero) |
 | [3227-vowels-game-in-a-string](https://github.com/jadoo12343/leetcode_solution/tree/master/3227-vowels-game-in-a-string) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/jadoo12343/leetcode_solution/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
