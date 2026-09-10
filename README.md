@@ -60,6 +60,7 @@ all the leetcode problem's solution i have completed
 | [3674-minimum-operations-to-equalize-array](https://github.com/jadoo12343/leetcode_solution/tree/master/3674-minimum-operations-to-equalize-array) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/jadoo12343/leetcode_solution/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/jadoo12343/leetcode_solution/tree/master/3731-find-missing-elements) |
+| [3828-final-element-after-subarray-deletions](https://github.com/jadoo12343/leetcode_solution/tree/master/3828-final-element-after-subarray-deletions) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/jadoo12343/leetcode_solution/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Math
 |  |
@@ -103,6 +104,7 @@ all the leetcode problem's solution i have completed
 | [3536-maximum-product-of-two-digits](https://github.com/jadoo12343/leetcode_solution/tree/master/3536-maximum-product-of-two-digits) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/jadoo12343/leetcode_solution/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/jadoo12343/leetcode_solution/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3828-final-element-after-subarray-deletions](https://github.com/jadoo12343/leetcode_solution/tree/master/3828-final-element-after-subarray-deletions) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/jadoo12343/leetcode_solution/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Two Pointers
 |  |
@@ -324,6 +326,7 @@ all the leetcode problem's solution i have completed
 | [1406-stone-game-iii](https://github.com/jadoo12343/leetcode_solution/tree/master/1406-stone-game-iii) |
 | [1927-sum-game](https://github.com/jadoo12343/leetcode_solution/tree/master/1927-sum-game) |
 | [3227-vowels-game-in-a-string](https://github.com/jadoo12343/leetcode_solution/tree/master/3227-vowels-game-in-a-string) |
+| [3828-final-element-after-subarray-deletions](https://github.com/jadoo12343/leetcode_solution/tree/master/3828-final-element-after-subarray-deletions) |
 ## Minimax
 |  |
 | ------- |
@@ -427,6 +430,7 @@ all the leetcode problem's solution i have completed
 | [3227-vowels-game-in-a-string](https://github.com/jadoo12343/leetcode_solution/tree/master/3227-vowels-game-in-a-string) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/jadoo12343/leetcode_solution/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3674-minimum-operations-to-equalize-array](https://github.com/jadoo12343/leetcode_solution/tree/master/3674-minimum-operations-to-equalize-array) |
+| [3828-final-element-after-subarray-deletions](https://github.com/jadoo12343/leetcode_solution/tree/master/3828-final-element-after-subarray-deletions) |
 ## Nim Game
 |  |
 | ------- |
