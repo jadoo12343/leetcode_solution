@@ -121,6 +121,7 @@ all the leetcode problem's solution i have completed
 | [0088-merge-sorted-array](https://github.com/jadoo12343/leetcode_solution/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/jadoo12343/leetcode_solution/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/jadoo12343/leetcode_solution/tree/master/0160-intersection-of-two-linked-lists) |
+| [0234-palindrome-linked-list](https://github.com/jadoo12343/leetcode_solution/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/jadoo12343/leetcode_solution/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/jadoo12343/leetcode_solution/tree/master/0287-find-the-duplicate-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/jadoo12343/leetcode_solution/tree/master/0345-reverse-vowels-of-a-string) |
@@ -239,6 +240,7 @@ all the leetcode problem's solution i have completed
 | [0160-intersection-of-two-linked-lists](https://github.com/jadoo12343/leetcode_solution/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/jadoo12343/leetcode_solution/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/jadoo12343/leetcode_solution/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/jadoo12343/leetcode_solution/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/jadoo12343/leetcode_solution/tree/master/0876-middle-of-the-linked-list) |
 ## Hash Table
 |  |
@@ -272,6 +274,7 @@ all the leetcode problem's solution i have completed
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/jadoo12343/leetcode_solution/tree/master/0020-valid-parentheses) |
+| [0234-palindrome-linked-list](https://github.com/jadoo12343/leetcode_solution/tree/master/0234-palindrome-linked-list) |
 | [0682-baseball-game](https://github.com/jadoo12343/leetcode_solution/tree/master/0682-baseball-game) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/jadoo12343/leetcode_solution/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Greedy
@@ -304,6 +307,7 @@ all the leetcode problem's solution i have completed
 | [0050-powx-n](https://github.com/jadoo12343/leetcode_solution/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/jadoo12343/leetcode_solution/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/jadoo12343/leetcode_solution/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/jadoo12343/leetcode_solution/tree/master/0234-palindrome-linked-list) |
 | [0486-predict-the-winner](https://github.com/jadoo12343/leetcode_solution/tree/master/0486-predict-the-winner) |
 ## Dynamic Programming
 |  |
