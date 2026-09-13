@@ -33,6 +33,7 @@ all the leetcode problem's solution i have completed
 | [0628-maximum-product-of-three-numbers](https://github.com/jadoo12343/leetcode_solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [0682-baseball-game](https://github.com/jadoo12343/leetcode_solution/tree/master/0682-baseball-game) |
 | [0705-design-hashset](https://github.com/jadoo12343/leetcode_solution/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/jadoo12343/leetcode_solution/tree/master/0706-design-hashmap) |
 | [0810-chalkboard-xor-game](https://github.com/jadoo12343/leetcode_solution/tree/master/0810-chalkboard-xor-game) |
 | [0860-lemonade-change](https://github.com/jadoo12343/leetcode_solution/tree/master/0860-lemonade-change) |
 | [0877-stone-game](https://github.com/jadoo12343/leetcode_solution/tree/master/0877-stone-game) |
@@ -243,6 +244,7 @@ all the leetcode problem's solution i have completed
 | [0206-reverse-linked-list](https://github.com/jadoo12343/leetcode_solution/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/jadoo12343/leetcode_solution/tree/master/0234-palindrome-linked-list) |
 | [0705-design-hashset](https://github.com/jadoo12343/leetcode_solution/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/jadoo12343/leetcode_solution/tree/master/0706-design-hashmap) |
 | [0876-middle-of-the-linked-list](https://github.com/jadoo12343/leetcode_solution/tree/master/0876-middle-of-the-linked-list) |
 ## Hash Table
 |  |
@@ -261,6 +263,7 @@ all the leetcode problem's solution i have completed
 | [0383-ransom-note](https://github.com/jadoo12343/leetcode_solution/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/jadoo12343/leetcode_solution/tree/master/0389-find-the-difference) |
 | [0705-design-hashset](https://github.com/jadoo12343/leetcode_solution/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/jadoo12343/leetcode_solution/tree/master/0706-design-hashmap) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/jadoo12343/leetcode_solution/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/jadoo12343/leetcode_solution/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/jadoo12343/leetcode_solution/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -464,8 +467,10 @@ all the leetcode problem's solution i have completed
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/jadoo12343/leetcode_solution/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/jadoo12343/leetcode_solution/tree/master/0706-design-hashmap) |
 ## Hash Function
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/jadoo12343/leetcode_solution/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/jadoo12343/leetcode_solution/tree/master/0706-design-hashmap) |
 <!---LeetCode Topics End-->
