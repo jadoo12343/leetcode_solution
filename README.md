@@ -93,6 +93,7 @@ all the leetcode problem's solution i have completed
 | [1033-moving-stones-until-consecutive](https://github.com/jadoo12343/leetcode_solution/tree/master/1033-moving-stones-until-consecutive) |
 | [1041-robot-bounded-in-circle](https://github.com/jadoo12343/leetcode_solution/tree/master/1041-robot-bounded-in-circle) |
 | [1227-airplane-seat-assignment-probability](https://github.com/jadoo12343/leetcode_solution/tree/master/1227-airplane-seat-assignment-probability) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/jadoo12343/leetcode_solution/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/jadoo12343/leetcode_solution/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1406-stone-game-iii](https://github.com/jadoo12343/leetcode_solution/tree/master/1406-stone-game-iii) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/jadoo12343/leetcode_solution/tree/master/1523-count-odd-numbers-in-an-interval-range) |
@@ -248,6 +249,7 @@ all the leetcode problem's solution i have completed
 | [0705-design-hashset](https://github.com/jadoo12343/leetcode_solution/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/jadoo12343/leetcode_solution/tree/master/0706-design-hashmap) |
 | [0876-middle-of-the-linked-list](https://github.com/jadoo12343/leetcode_solution/tree/master/0876-middle-of-the-linked-list) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/jadoo12343/leetcode_solution/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/jadoo12343/leetcode_solution/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Hash Table
 |  |
