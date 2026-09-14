@@ -58,6 +58,7 @@ all the leetcode problem's solution i have completed
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/jadoo12343/leetcode_solution/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/jadoo12343/leetcode_solution/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/jadoo12343/leetcode_solution/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/jadoo12343/leetcode_solution/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/jadoo12343/leetcode_solution/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3674-minimum-operations-to-equalize-array](https://github.com/jadoo12343/leetcode_solution/tree/master/3674-minimum-operations-to-equalize-array) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/jadoo12343/leetcode_solution/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -167,6 +168,7 @@ all the leetcode problem's solution i have completed
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/jadoo12343/leetcode_solution/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1503-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/jadoo12343/leetcode_solution/tree/master/1503-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/jadoo12343/leetcode_solution/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/jadoo12343/leetcode_solution/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/jadoo12343/leetcode_solution/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Number Theory
 |  |
@@ -246,6 +248,7 @@ all the leetcode problem's solution i have completed
 | [0705-design-hashset](https://github.com/jadoo12343/leetcode_solution/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/jadoo12343/leetcode_solution/tree/master/0706-design-hashmap) |
 | [0876-middle-of-the-linked-list](https://github.com/jadoo12343/leetcode_solution/tree/master/0876-middle-of-the-linked-list) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/jadoo12343/leetcode_solution/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -269,6 +272,7 @@ all the leetcode problem's solution i have completed
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/jadoo12343/leetcode_solution/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/jadoo12343/leetcode_solution/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/jadoo12343/leetcode_solution/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/jadoo12343/leetcode_solution/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/jadoo12343/leetcode_solution/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/jadoo12343/leetcode_solution/tree/master/3731-find-missing-elements) |
 ## Counting
@@ -361,6 +365,7 @@ all the leetcode problem's solution i have completed
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/jadoo12343/leetcode_solution/tree/master/0023-merge-k-sorted-lists) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/jadoo12343/leetcode_solution/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/jadoo12343/leetcode_solution/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -473,4 +478,12 @@ all the leetcode problem's solution i have completed
 | ------- |
 | [0705-design-hashset](https://github.com/jadoo12343/leetcode_solution/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/jadoo12343/leetcode_solution/tree/master/0706-design-hashmap) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/jadoo12343/leetcode_solution/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+## Ordered Set
+|  |
+| ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/jadoo12343/leetcode_solution/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 <!---LeetCode Topics End-->
