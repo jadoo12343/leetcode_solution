@@ -6,10 +6,10 @@
 class Solution:
     def isPalindrome(self, head):
         a = []
-
-        while head:
+        while head :
             a.append(head.val)
             head = head.next
-
-        return a == a[::-1]
-        
+        if a == a[::-1]:
+            return True 
+        else:
+            return False
