@@ -5,8 +5,12 @@
 #         self.next = next
 class Solution:
     def getDecimalValue(self, head: Optional[ListNode]) -> int:
-        num = 0
-        while head:
-            num = (num << 1) | head.val
+        a = []
+        while head :
+            a.append(head.val)
             head = head.next
-        return num
+        num = str("".join(map(str, a)))
+        decimal_num = int(num, 2)
+        return decimal_num
+            
+        
