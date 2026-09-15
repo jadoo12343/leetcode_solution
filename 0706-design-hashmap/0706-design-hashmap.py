@@ -8,6 +8,7 @@ class MyHashMap:
         return val if val != None else -1
     def remove(self, key: int) -> None:
         self.data[key] = None
+
 # Your MyHashMap object will be instantiated and called as such:
 # obj = MyHashMap()
 # obj.put(key,value)
