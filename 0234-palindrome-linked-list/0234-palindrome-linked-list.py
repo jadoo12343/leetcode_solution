@@ -9,7 +9,4 @@ class Solution:
         while head :
             a.append(head.val)
             head = head.next
-        if a == a[::-1]:
-            return True 
-        else:
-            return False
+        return a == a[::-1]
