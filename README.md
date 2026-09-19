@@ -96,6 +96,7 @@ all the leetcode problem's solution i have completed
 | [1227-airplane-seat-assignment-probability](https://github.com/jadoo12343/leetcode_solution/tree/master/1227-airplane-seat-assignment-probability) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/jadoo12343/leetcode_solution/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/jadoo12343/leetcode_solution/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/jadoo12343/leetcode_solution/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1406-stone-game-iii](https://github.com/jadoo12343/leetcode_solution/tree/master/1406-stone-game-iii) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/jadoo12343/leetcode_solution/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/jadoo12343/leetcode_solution/tree/master/1822-sign-of-the-product-of-an-array) |
@@ -518,4 +519,8 @@ all the leetcode problem's solution i have completed
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/jadoo12343/leetcode_solution/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+## Geometry
+|  |
+| ------- |
+| [1401-circle-and-rectangle-overlapping](https://github.com/jadoo12343/leetcode_solution/tree/master/1401-circle-and-rectangle-overlapping) |
 <!---LeetCode Topics End-->
