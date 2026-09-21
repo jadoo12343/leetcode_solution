@@ -255,6 +255,7 @@ all the leetcode problem's solution i have completed
 | [0086-partition-list](https://github.com/jadoo12343/leetcode_solution/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/jadoo12343/leetcode_solution/tree/master/0092-reverse-linked-list-ii) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/jadoo12343/leetcode_solution/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/jadoo12343/leetcode_solution/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0141-linked-list-cycle](https://github.com/jadoo12343/leetcode_solution/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/jadoo12343/leetcode_solution/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/jadoo12343/leetcode_solution/tree/master/0203-remove-linked-list-elements) |
@@ -302,6 +303,7 @@ all the leetcode problem's solution i have completed
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/jadoo12343/leetcode_solution/tree/master/0020-valid-parentheses) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/jadoo12343/leetcode_solution/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/jadoo12343/leetcode_solution/tree/master/0234-palindrome-linked-list) |
 | [0682-baseball-game](https://github.com/jadoo12343/leetcode_solution/tree/master/0682-baseball-game) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/jadoo12343/leetcode_solution/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -513,6 +515,7 @@ all the leetcode problem's solution i have completed
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/jadoo12343/leetcode_solution/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/jadoo12343/leetcode_solution/tree/master/0114-flatten-binary-tree-to-linked-list) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -521,8 +524,13 @@ all the leetcode problem's solution i have completed
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/jadoo12343/leetcode_solution/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/jadoo12343/leetcode_solution/tree/master/0114-flatten-binary-tree-to-linked-list) |
 ## Geometry
 |  |
 | ------- |
 | [1401-circle-and-rectangle-overlapping](https://github.com/jadoo12343/leetcode_solution/tree/master/1401-circle-and-rectangle-overlapping) |
+## Depth-First Search
+|  |
+| ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/jadoo12343/leetcode_solution/tree/master/0114-flatten-binary-tree-to-linked-list) |
 <!---LeetCode Topics End-->
