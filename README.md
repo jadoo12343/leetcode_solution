@@ -155,6 +155,7 @@ all the leetcode problem's solution i have completed
 | [0389-find-the-difference](https://github.com/jadoo12343/leetcode_solution/tree/master/0389-find-the-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/jadoo12343/leetcode_solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [0976-largest-perimeter-triangle](https://github.com/jadoo12343/leetcode_solution/tree/master/0976-largest-perimeter-triangle) |
+| [1096-brace-expansion-ii](https://github.com/jadoo12343/leetcode_solution/tree/master/1096-brace-expansion-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/jadoo12343/leetcode_solution/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/jadoo12343/leetcode_solution/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/jadoo12343/leetcode_solution/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
@@ -220,6 +221,7 @@ all the leetcode problem's solution i have completed
 | [0709-to-lower-case](https://github.com/jadoo12343/leetcode_solution/tree/master/0709-to-lower-case) |
 | [1041-robot-bounded-in-circle](https://github.com/jadoo12343/leetcode_solution/tree/master/1041-robot-bounded-in-circle) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/jadoo12343/leetcode_solution/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/jadoo12343/leetcode_solution/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/jadoo12343/leetcode_solution/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1768-merge-strings-alternately](https://github.com/jadoo12343/leetcode_solution/tree/master/1768-merge-strings-alternately) |
 | [1927-sum-game](https://github.com/jadoo12343/leetcode_solution/tree/master/1927-sum-game) |
@@ -288,6 +290,7 @@ all the leetcode problem's solution i have completed
 | [0389-find-the-difference](https://github.com/jadoo12343/leetcode_solution/tree/master/0389-find-the-difference) |
 | [0705-design-hashset](https://github.com/jadoo12343/leetcode_solution/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/jadoo12343/leetcode_solution/tree/master/0706-design-hashmap) |
+| [1096-brace-expansion-ii](https://github.com/jadoo12343/leetcode_solution/tree/master/1096-brace-expansion-ii) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/jadoo12343/leetcode_solution/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/jadoo12343/leetcode_solution/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/jadoo12343/leetcode_solution/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -312,6 +315,7 @@ all the leetcode problem's solution i have completed
 | [0234-palindrome-linked-list](https://github.com/jadoo12343/leetcode_solution/tree/master/0234-palindrome-linked-list) |
 | [0682-baseball-game](https://github.com/jadoo12343/leetcode_solution/tree/master/0682-baseball-game) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/jadoo12343/leetcode_solution/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/jadoo12343/leetcode_solution/tree/master/1096-brace-expansion-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -548,4 +552,9 @@ all the leetcode problem's solution i have completed
 |  |
 | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/jadoo12343/leetcode_solution/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [1096-brace-expansion-ii](https://github.com/jadoo12343/leetcode_solution/tree/master/1096-brace-expansion-ii) |
+## Backtracking
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/jadoo12343/leetcode_solution/tree/master/1096-brace-expansion-ii) |
 <!---LeetCode Topics End-->
