@@ -2,7 +2,8 @@ class Solution:
     def maxDepth(self, s: str) -> int:
         count = 0
         res = 0
-        for i in range(len(s)):
+        n = len(s)
+        for i in range(n):
             if s[i] == ')':
                 count -=1
                 continue
