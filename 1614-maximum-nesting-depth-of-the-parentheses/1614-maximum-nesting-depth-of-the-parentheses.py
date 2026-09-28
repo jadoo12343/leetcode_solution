@@ -7,9 +7,8 @@ class Solution:
             if s[i] == ')':
                 count -=1
                 continue
-            if s[i] != '(':
-                continue
-            count +=1
+            if s[i] == '(':
+                count +=1
             res = max(res , count)
         return res
 
