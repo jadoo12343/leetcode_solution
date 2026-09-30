@@ -132,6 +132,7 @@ all the leetcode problem's solution i have completed
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/jadoo12343/leetcode_solution/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/jadoo12343/leetcode_solution/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/jadoo12343/leetcode_solution/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/jadoo12343/leetcode_solution/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/jadoo12343/leetcode_solution/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/jadoo12343/leetcode_solution/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/jadoo12343/leetcode_solution/tree/master/0234-palindrome-linked-list) |
@@ -212,6 +213,7 @@ all the leetcode problem's solution i have completed
 | [0043-multiply-strings](https://github.com/jadoo12343/leetcode_solution/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/jadoo12343/leetcode_solution/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/jadoo12343/leetcode_solution/tree/master/0067-add-binary) |
+| [0125-valid-palindrome](https://github.com/jadoo12343/leetcode_solution/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/jadoo12343/leetcode_solution/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/jadoo12343/leetcode_solution/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/jadoo12343/leetcode_solution/tree/master/0383-ransom-note) |
