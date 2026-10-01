@@ -83,6 +83,7 @@ all the leetcode problem's solution i have completed
 | [0066-plus-one](https://github.com/jadoo12343/leetcode_solution/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/jadoo12343/leetcode_solution/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/jadoo12343/leetcode_solution/tree/master/0069-sqrtx) |
+| [0202-happy-number](https://github.com/jadoo12343/leetcode_solution/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/jadoo12343/leetcode_solution/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/jadoo12343/leetcode_solution/tree/master/0292-nim-game) |
 | [0319-bulb-switcher](https://github.com/jadoo12343/leetcode_solution/tree/master/0319-bulb-switcher) |
@@ -135,6 +136,7 @@ all the leetcode problem's solution i have completed
 | [0125-valid-palindrome](https://github.com/jadoo12343/leetcode_solution/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/jadoo12343/leetcode_solution/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/jadoo12343/leetcode_solution/tree/master/0160-intersection-of-two-linked-lists) |
+| [0202-happy-number](https://github.com/jadoo12343/leetcode_solution/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/jadoo12343/leetcode_solution/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/jadoo12343/leetcode_solution/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/jadoo12343/leetcode_solution/tree/master/0287-find-the-duplicate-number) |
@@ -289,6 +291,7 @@ all the leetcode problem's solution i have completed
 | [0073-set-matrix-zeroes](https://github.com/jadoo12343/leetcode_solution/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/jadoo12343/leetcode_solution/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/jadoo12343/leetcode_solution/tree/master/0160-intersection-of-two-linked-lists) |
+| [0202-happy-number](https://github.com/jadoo12343/leetcode_solution/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/jadoo12343/leetcode_solution/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/jadoo12343/leetcode_solution/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/jadoo12343/leetcode_solution/tree/master/0349-intersection-of-two-arrays) |
@@ -460,6 +463,7 @@ all the leetcode problem's solution i have completed
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/jadoo12343/leetcode_solution/tree/master/0141-linked-list-cycle) |
+| [0202-happy-number](https://github.com/jadoo12343/leetcode_solution/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/jadoo12343/leetcode_solution/tree/master/0287-find-the-duplicate-number) |
 ## Interactive
 |  |
