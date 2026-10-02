@@ -4,16 +4,16 @@ class Solution:
             return ["()"]
         res = []
 
-        def dfs(O, C, s):
-            if not O and not C:
-                res.append(s + ")")
+        def dfs(a, b, c):
+            if not a and not b:
+                res.append(c + ")")
                 return
 
-            if O > 0:
-                dfs(O - 1, C, s + "(")
+            if a > 0:
+                dfs(a - 1,b, c + "(")
 
-            if C >= O:
-                dfs(O, C - 1, s + ")")
+            if b >= a:
+                dfs(a, b - 1, c + ")")
 
         dfs(n-1, n-1, "(")
 
