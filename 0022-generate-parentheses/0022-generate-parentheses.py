@@ -3,7 +3,7 @@ class Solution:
         if n==1:
             return ["()"]
         res = []
-
+#here a denotes num of "(" and b denotes num of ")" 
         def dfs(a, b, c):
             if not a and not b:
                 res.append(c + ")")
