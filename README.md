@@ -213,6 +213,7 @@ all the leetcode problem's solution i have completed
 | [0020-valid-parentheses](https://github.com/jadoo12343/leetcode_solution/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/jadoo12343/leetcode_solution/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jadoo12343/leetcode_solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0032-longest-valid-parentheses](https://github.com/jadoo12343/leetcode_solution/tree/master/0032-longest-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/jadoo12343/leetcode_solution/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/jadoo12343/leetcode_solution/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/jadoo12343/leetcode_solution/tree/master/0067-add-binary) |
@@ -323,6 +324,7 @@ all the leetcode problem's solution i have completed
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/jadoo12343/leetcode_solution/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/jadoo12343/leetcode_solution/tree/master/0032-longest-valid-parentheses) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/jadoo12343/leetcode_solution/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/jadoo12343/leetcode_solution/tree/master/0234-palindrome-linked-list) |
 | [0682-baseball-game](https://github.com/jadoo12343/leetcode_solution/tree/master/0682-baseball-game) |
@@ -368,6 +370,7 @@ all the leetcode problem's solution i have completed
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/jadoo12343/leetcode_solution/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/jadoo12343/leetcode_solution/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/jadoo12343/leetcode_solution/tree/master/0032-longest-valid-parentheses) |
 | [0486-predict-the-winner](https://github.com/jadoo12343/leetcode_solution/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/jadoo12343/leetcode_solution/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/jadoo12343/leetcode_solution/tree/master/1025-divisor-game) |
@@ -417,6 +420,7 @@ all the leetcode problem's solution i have completed
 | ------- |
 | [0020-valid-parentheses](https://github.com/jadoo12343/leetcode_solution/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/jadoo12343/leetcode_solution/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/jadoo12343/leetcode_solution/tree/master/0032-longest-valid-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/jadoo12343/leetcode_solution/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/jadoo12343/leetcode_solution/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Sliding Window
