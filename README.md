@@ -227,6 +227,7 @@ all the leetcode problem's solution i have completed
 | [0657-robot-return-to-origin](https://github.com/jadoo12343/leetcode_solution/tree/master/0657-robot-return-to-origin) |
 | [0678-valid-parenthesis-string](https://github.com/jadoo12343/leetcode_solution/tree/master/0678-valid-parenthesis-string) |
 | [0709-to-lower-case](https://github.com/jadoo12343/leetcode_solution/tree/master/0709-to-lower-case) |
+| [0856-score-of-parentheses](https://github.com/jadoo12343/leetcode_solution/tree/master/0856-score-of-parentheses) |
 | [1041-robot-bounded-in-circle](https://github.com/jadoo12343/leetcode_solution/tree/master/1041-robot-bounded-in-circle) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/jadoo12343/leetcode_solution/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/jadoo12343/leetcode_solution/tree/master/1096-brace-expansion-ii) |
@@ -330,6 +331,7 @@ all the leetcode problem's solution i have completed
 | [0234-palindrome-linked-list](https://github.com/jadoo12343/leetcode_solution/tree/master/0234-palindrome-linked-list) |
 | [0678-valid-parenthesis-string](https://github.com/jadoo12343/leetcode_solution/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/jadoo12343/leetcode_solution/tree/master/0682-baseball-game) |
+| [0856-score-of-parentheses](https://github.com/jadoo12343/leetcode_solution/tree/master/0856-score-of-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/jadoo12343/leetcode_solution/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/jadoo12343/leetcode_solution/tree/master/1096-brace-expansion-ii) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/jadoo12343/leetcode_solution/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -426,6 +428,7 @@ all the leetcode problem's solution i have completed
 | [0022-generate-parentheses](https://github.com/jadoo12343/leetcode_solution/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/jadoo12343/leetcode_solution/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/jadoo12343/leetcode_solution/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/jadoo12343/leetcode_solution/tree/master/0856-score-of-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/jadoo12343/leetcode_solution/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/jadoo12343/leetcode_solution/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Sliding Window
