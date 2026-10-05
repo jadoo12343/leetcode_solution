@@ -144,6 +144,7 @@ all the leetcode problem's solution i have completed
 | [0345-reverse-vowels-of-a-string](https://github.com/jadoo12343/leetcode_solution/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/jadoo12343/leetcode_solution/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/jadoo12343/leetcode_solution/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0392-is-subsequence](https://github.com/jadoo12343/leetcode_solution/tree/master/0392-is-subsequence) |
 | [0876-middle-of-the-linked-list](https://github.com/jadoo12343/leetcode_solution/tree/master/0876-middle-of-the-linked-list) |
 | [1768-merge-strings-alternately](https://github.com/jadoo12343/leetcode_solution/tree/master/1768-merge-strings-alternately) |
 | [2396-strictly-palindromic-number](https://github.com/jadoo12343/leetcode_solution/tree/master/2396-strictly-palindromic-number) |
@@ -224,6 +225,7 @@ all the leetcode problem's solution i have completed
 | [0345-reverse-vowels-of-a-string](https://github.com/jadoo12343/leetcode_solution/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/jadoo12343/leetcode_solution/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/jadoo12343/leetcode_solution/tree/master/0389-find-the-difference) |
+| [0392-is-subsequence](https://github.com/jadoo12343/leetcode_solution/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/jadoo12343/leetcode_solution/tree/master/0412-fizz-buzz) |
 | [0459-repeated-substring-pattern](https://github.com/jadoo12343/leetcode_solution/tree/master/0459-repeated-substring-pattern) |
 | [0657-robot-return-to-origin](https://github.com/jadoo12343/leetcode_solution/tree/master/0657-robot-return-to-origin) |
@@ -378,6 +380,7 @@ all the leetcode problem's solution i have completed
 | [0005-longest-palindromic-substring](https://github.com/jadoo12343/leetcode_solution/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/jadoo12343/leetcode_solution/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/jadoo12343/leetcode_solution/tree/master/0032-longest-valid-parentheses) |
+| [0392-is-subsequence](https://github.com/jadoo12343/leetcode_solution/tree/master/0392-is-subsequence) |
 | [0486-predict-the-winner](https://github.com/jadoo12343/leetcode_solution/tree/master/0486-predict-the-winner) |
 | [0678-valid-parenthesis-string](https://github.com/jadoo12343/leetcode_solution/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/jadoo12343/leetcode_solution/tree/master/0877-stone-game) |
