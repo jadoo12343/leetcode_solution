@@ -143,6 +143,7 @@ all the leetcode problem's solution i have completed
 | [0141-linked-list-cycle](https://github.com/jadoo12343/leetcode_solution/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/jadoo12343/leetcode_solution/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/jadoo12343/leetcode_solution/tree/master/0148-sort-list) |
+| [0151-reverse-words-in-a-string](https://github.com/jadoo12343/leetcode_solution/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/jadoo12343/leetcode_solution/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/jadoo12343/leetcode_solution/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/jadoo12343/leetcode_solution/tree/master/0234-palindrome-linked-list) |
@@ -236,6 +237,7 @@ all the leetcode problem's solution i have completed
 | [0058-length-of-last-word](https://github.com/jadoo12343/leetcode_solution/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/jadoo12343/leetcode_solution/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/jadoo12343/leetcode_solution/tree/master/0125-valid-palindrome) |
+| [0151-reverse-words-in-a-string](https://github.com/jadoo12343/leetcode_solution/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/jadoo12343/leetcode_solution/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/jadoo12343/leetcode_solution/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/jadoo12343/leetcode_solution/tree/master/0345-reverse-vowels-of-a-string) |
