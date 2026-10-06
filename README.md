@@ -141,6 +141,7 @@ all the leetcode problem's solution i have completed
 | [0088-merge-sorted-array](https://github.com/jadoo12343/leetcode_solution/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/jadoo12343/leetcode_solution/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/jadoo12343/leetcode_solution/tree/master/0141-linked-list-cycle) |
+| [0148-sort-list](https://github.com/jadoo12343/leetcode_solution/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/jadoo12343/leetcode_solution/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/jadoo12343/leetcode_solution/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/jadoo12343/leetcode_solution/tree/master/0234-palindrome-linked-list) |
@@ -165,6 +166,7 @@ all the leetcode problem's solution i have completed
 | [0016-3sum-closest](https://github.com/jadoo12343/leetcode_solution/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/jadoo12343/leetcode_solution/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/jadoo12343/leetcode_solution/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/jadoo12343/leetcode_solution/tree/master/0148-sort-list) |
 | [0242-valid-anagram](https://github.com/jadoo12343/leetcode_solution/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/jadoo12343/leetcode_solution/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/jadoo12343/leetcode_solution/tree/master/0349-intersection-of-two-arrays) |
@@ -295,6 +297,7 @@ all the leetcode problem's solution i have completed
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/jadoo12343/leetcode_solution/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/jadoo12343/leetcode_solution/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0141-linked-list-cycle](https://github.com/jadoo12343/leetcode_solution/tree/master/0141-linked-list-cycle) |
+| [0148-sort-list](https://github.com/jadoo12343/leetcode_solution/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/jadoo12343/leetcode_solution/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/jadoo12343/leetcode_solution/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/jadoo12343/leetcode_solution/tree/master/0206-reverse-linked-list) |
@@ -490,6 +493,7 @@ all the leetcode problem's solution i have completed
 | [0004-median-of-two-sorted-arrays](https://github.com/jadoo12343/leetcode_solution/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/jadoo12343/leetcode_solution/tree/master/0023-merge-k-sorted-lists) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/jadoo12343/leetcode_solution/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0148-sort-list](https://github.com/jadoo12343/leetcode_solution/tree/master/0148-sort-list) |
 ## Manacher
 |  |
 | ------- |
@@ -512,6 +516,7 @@ all the leetcode problem's solution i have completed
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/jadoo12343/leetcode_solution/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/jadoo12343/leetcode_solution/tree/master/0148-sort-list) |
 ## Tournament Sort
 |  |
 | ------- |
