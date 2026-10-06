@@ -57,6 +57,7 @@ all the leetcode problem's solution i have completed
 | [1822-sign-of-the-product-of-an-array](https://github.com/jadoo12343/leetcode_solution/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/jadoo12343/leetcode_solution/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/jadoo12343/leetcode_solution/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/jadoo12343/leetcode_solution/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2419-longest-subarray-with-maximum-bitwise-and](https://github.com/jadoo12343/leetcode_solution/tree/master/2419-longest-subarray-with-maximum-bitwise-and) |
 | [2425-bitwise-xor-of-all-pairings](https://github.com/jadoo12343/leetcode_solution/tree/master/2425-bitwise-xor-of-all-pairings) |
 | [2568-minimum-impossible-or](https://github.com/jadoo12343/leetcode_solution/tree/master/2568-minimum-impossible-or) |
@@ -154,6 +155,7 @@ all the leetcode problem's solution i have completed
 | [0541-reverse-string-ii](https://github.com/jadoo12343/leetcode_solution/tree/master/0541-reverse-string-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/jadoo12343/leetcode_solution/tree/master/0876-middle-of-the-linked-list) |
 | [1768-merge-strings-alternately](https://github.com/jadoo12343/leetcode_solution/tree/master/1768-merge-strings-alternately) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/jadoo12343/leetcode_solution/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2396-strictly-palindromic-number](https://github.com/jadoo12343/leetcode_solution/tree/master/2396-strictly-palindromic-number) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/jadoo12343/leetcode_solution/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting
@@ -194,6 +196,7 @@ all the leetcode problem's solution i have completed
 | [1260-shift-2d-grid](https://github.com/jadoo12343/leetcode_solution/tree/master/1260-shift-2d-grid) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/jadoo12343/leetcode_solution/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1503-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/jadoo12343/leetcode_solution/tree/master/1503-last-moment-before-all-ants-fall-out-of-a-plank) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/jadoo12343/leetcode_solution/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/jadoo12343/leetcode_solution/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/jadoo12343/leetcode_solution/tree/master/3498-reverse-degree-of-a-string) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/jadoo12343/leetcode_solution/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
