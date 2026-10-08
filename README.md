@@ -257,6 +257,7 @@ all the leetcode problem's solution i have completed
 | [0709-to-lower-case](https://github.com/jadoo12343/leetcode_solution/tree/master/0709-to-lower-case) |
 | [0856-score-of-parentheses](https://github.com/jadoo12343/leetcode_solution/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/jadoo12343/leetcode_solution/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/jadoo12343/leetcode_solution/tree/master/1021-remove-outermost-parentheses) |
 | [1041-robot-bounded-in-circle](https://github.com/jadoo12343/leetcode_solution/tree/master/1041-robot-bounded-in-circle) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/jadoo12343/leetcode_solution/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/jadoo12343/leetcode_solution/tree/master/1096-brace-expansion-ii) |
@@ -365,6 +366,7 @@ all the leetcode problem's solution i have completed
 | [0682-baseball-game](https://github.com/jadoo12343/leetcode_solution/tree/master/0682-baseball-game) |
 | [0856-score-of-parentheses](https://github.com/jadoo12343/leetcode_solution/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/jadoo12343/leetcode_solution/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/jadoo12343/leetcode_solution/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/jadoo12343/leetcode_solution/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/jadoo12343/leetcode_solution/tree/master/1096-brace-expansion-ii) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/jadoo12343/leetcode_solution/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -467,6 +469,7 @@ all the leetcode problem's solution i have completed
 | [0678-valid-parenthesis-string](https://github.com/jadoo12343/leetcode_solution/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/jadoo12343/leetcode_solution/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/jadoo12343/leetcode_solution/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/jadoo12343/leetcode_solution/tree/master/1021-remove-outermost-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/jadoo12343/leetcode_solution/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/jadoo12343/leetcode_solution/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Sliding Window
