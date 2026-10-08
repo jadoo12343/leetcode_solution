@@ -1,21 +1,19 @@
 class Solution:
-    def minOperations(self, nums: List[int], x: int) -> int:
-        n = len(nums)
+    def minOperations(self, nums: list[int], x: int) -> int:
         target = sum(nums) - x
-        if target == 0:
-            return n
-        elif target < 0:
+        n = len(nums)
+        if target < 0 :
             return -1
-
-        res = -1
+        elif target ==0:
+            return n
+        res = -1 
         currsum = 0
-        l = 0
-        for r in range(n):
-            currsum += nums[r]
+        j = 0
+        for i in range(n):
+            currsum += nums[i]
             while currsum > target:
-                currsum -= nums[l]
-                l += 1
-            
+                currsum -= nums[j]
+                j +=1
             if currsum == target:
-                res = max(res, (r - l + 1))    
+                res = max(res , (i - j +1))
         return n - res if res != -1 else -1
