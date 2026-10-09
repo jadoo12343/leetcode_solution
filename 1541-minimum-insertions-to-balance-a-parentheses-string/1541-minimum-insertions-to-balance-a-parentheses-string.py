@@ -1,29 +1,20 @@
-class Solution(object):
-    def minInsertions(self, s):
-        st = []
-        res = 0
-        i = 0
-        while i < len(s):
-            ch = s[i]
+class Solution:
+    def minInsertions(self, s: str) -> int:
+         s = s.replace('))', '}')
+         missing_brackets = 0
+         required_closed = 0
 
-            if ch == '(':
-                st.append(ch)
-            else:
-                if not st:
-                    if i < len(s) - 1 and s[i + 1] == ')':
-                        i += 1
-                    else:
-                        res += 1
-                    res += 1
+         for c in s:
+             if c == '(':
+                 required_closed += 2  
+             else:
+                if c == ')': 
+                    missing_brackets += 1
+                if required_closed:
+                    required_closed -= 2
                 else:
-                    if i < len(s) - 1 and s[i + 1] == ')':
-                        i += 1
-                    else:
-                        res += 1
-                    st.pop()
+                    missing_brackets += 1
 
-            i += 1
-
-        return res + len(st) * 2
-
+         return missing_brackets + required_closed
+       
         
