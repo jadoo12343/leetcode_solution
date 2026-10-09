@@ -1,30 +1,16 @@
-"""
-# Definition for a Node.
-class Node:
-    def __init__(self, val: int = 0, left: 'Node' = None, right: 'Node' = None, next: 'Node' = None):
-        self.val = val
-        self.left = left
-        self.right = right
-        self.next = next
-"""
-
 class Solution:
-    def connect(self, root: 'Node') -> 'Node':
-        if not root:
-            return root
-
-        from collections import deque
-        q = deque([root])
-
-        while q:
-            size = len(q)
-            for i in range(size):
-                node = q.popleft()
-                if i < size - 1:
-                    node.next = q[0]
+    def connect(self, root):
+        node = root
+        while node:
+            curr = dummy = Node(0)
+            while node:
                 if node.left:
-                    q.append(node.left)
+                    curr.next = node.left
+                    curr = curr.next
                 if node.right:
-                    q.append(node.right)
-
+                    curr.next = node.right
+                    curr = curr.next
+                node = node.next
+            node = dummy.next
+               
         return root
