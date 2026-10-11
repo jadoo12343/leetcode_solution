@@ -1,8 +1,8 @@
 class Solution:
     def sumOfSquares(self, nums: List[int]) -> int:
+        total_sum = 0
         n = len(nums)
-        res = []
-        for i in range(n):
-            if n%(i+1) == 0:
-                res.append(nums[i])
-        return sum([x**2 for x in res])
+        for i in range(1,len(nums)+1):
+            if n%i == 0:
+                total_sum = total_sum + nums[i-1]**2
+        return total_sum
