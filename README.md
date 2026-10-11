@@ -64,6 +64,7 @@ all the leetcode problem's solution i have completed
 | [2425-bitwise-xor-of-all-pairings](https://github.com/jadoo12343/leetcode_solution/tree/master/2425-bitwise-xor-of-all-pairings) |
 | [2568-minimum-impossible-or](https://github.com/jadoo12343/leetcode_solution/tree/master/2568-minimum-impossible-or) |
 | [2731-movement-of-robots](https://github.com/jadoo12343/leetcode_solution/tree/master/2731-movement-of-robots) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/jadoo12343/leetcode_solution/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/jadoo12343/leetcode_solution/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/jadoo12343/leetcode_solution/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/jadoo12343/leetcode_solution/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -459,6 +460,7 @@ all the leetcode problem's solution i have completed
 |  |
 | ------- |
 | [2749-minimum-operations-to-make-the-integer-zero](https://github.com/jadoo12343/leetcode_solution/tree/master/2749-minimum-operations-to-make-the-integer-zero) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/jadoo12343/leetcode_solution/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/jadoo12343/leetcode_solution/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Heap (Priority Queue)
 |  |
