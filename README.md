@@ -65,6 +65,7 @@ all the leetcode problem's solution i have completed
 | [2568-minimum-impossible-or](https://github.com/jadoo12343/leetcode_solution/tree/master/2568-minimum-impossible-or) |
 | [2731-movement-of-robots](https://github.com/jadoo12343/leetcode_solution/tree/master/2731-movement-of-robots) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/jadoo12343/leetcode_solution/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/jadoo12343/leetcode_solution/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/jadoo12343/leetcode_solution/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/jadoo12343/leetcode_solution/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/jadoo12343/leetcode_solution/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -291,6 +292,7 @@ all the leetcode problem's solution i have completed
 | [2425-bitwise-xor-of-all-pairings](https://github.com/jadoo12343/leetcode_solution/tree/master/2425-bitwise-xor-of-all-pairings) |
 | [2568-minimum-impossible-or](https://github.com/jadoo12343/leetcode_solution/tree/master/2568-minimum-impossible-or) |
 | [2749-minimum-operations-to-make-the-integer-zero](https://github.com/jadoo12343/leetcode_solution/tree/master/2749-minimum-operations-to-make-the-integer-zero) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/jadoo12343/leetcode_solution/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3674-minimum-operations-to-equalize-array](https://github.com/jadoo12343/leetcode_solution/tree/master/3674-minimum-operations-to-equalize-array) |
 ## Linked List
 |  |
@@ -346,6 +348,7 @@ all the leetcode problem's solution i have completed
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/jadoo12343/leetcode_solution/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/jadoo12343/leetcode_solution/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/jadoo12343/leetcode_solution/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/jadoo12343/leetcode_solution/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/jadoo12343/leetcode_solution/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/jadoo12343/leetcode_solution/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/jadoo12343/leetcode_solution/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -392,6 +395,7 @@ all the leetcode problem's solution i have completed
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/jadoo12343/leetcode_solution/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/jadoo12343/leetcode_solution/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2745-construct-the-longest-new-string](https://github.com/jadoo12343/leetcode_solution/tree/master/2745-construct-the-longest-new-string) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/jadoo12343/leetcode_solution/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/jadoo12343/leetcode_solution/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/jadoo12343/leetcode_solution/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Monotonic Stack
