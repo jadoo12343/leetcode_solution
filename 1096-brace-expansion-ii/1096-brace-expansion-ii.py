@@ -1,21 +1,40 @@
 class Solution:
     def braceExpansionII(self, expression: str) -> List[str]:
-            res = set()
-            def dfs(s):
-                if "{" not in s:
-                    res.add(s)
-                    return
-                
-                right = s.find("}")
-                left = s.rfind("{",0,right)
-                
-                prefix = s[:left]
-                choices = s[left + 1:right].split(",")
-                suffix = s[right+1:]
 
-                for choice in choices:
-                    new_s = prefix + choice + suffix
-                    dfs(new_s)
-            dfs(expression)
-            return sorted(res)
+        i = 0
+        n = len(expression)
 
+        def parse():
+            nonlocal i
+
+            union = set()
+            current = {""}
+
+            while i < n and expression[i] != "}":
+
+                if expression[i] == ",":
+                    union |= current
+                    current = {""}
+                    i += 1
+
+                elif expression[i] == "{":
+                    i += 1
+                    choices = parse()
+                    i += 1
+
+                    current = {
+                        a + b
+                        for a in current
+                        for b in choices
+                    }
+
+                else:
+                    current = {
+                        a + expression[i]
+                        for a in current
+                    }
+                    i += 1
+
+            return union | current
+
+        return sorted(parse())
