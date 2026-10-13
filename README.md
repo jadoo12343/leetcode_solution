@@ -74,6 +74,7 @@ all the leetcode problem's solution i have completed
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/jadoo12343/leetcode_solution/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3674-minimum-operations-to-equalize-array](https://github.com/jadoo12343/leetcode_solution/tree/master/3674-minimum-operations-to-equalize-array) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/jadoo12343/leetcode_solution/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/jadoo12343/leetcode_solution/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/jadoo12343/leetcode_solution/tree/master/3731-find-missing-elements) |
 | [3828-final-element-after-subarray-deletions](https://github.com/jadoo12343/leetcode_solution/tree/master/3828-final-element-after-subarray-deletions) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/jadoo12343/leetcode_solution/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -193,6 +194,7 @@ all the leetcode problem's solution i have completed
 | [2731-movement-of-robots](https://github.com/jadoo12343/leetcode_solution/tree/master/2731-movement-of-robots) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/jadoo12343/leetcode_solution/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/jadoo12343/leetcode_solution/tree/master/3536-maximum-product-of-two-digits) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/jadoo12343/leetcode_solution/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/jadoo12343/leetcode_solution/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/jadoo12343/leetcode_solution/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
@@ -398,6 +400,7 @@ all the leetcode problem's solution i have completed
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/jadoo12343/leetcode_solution/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/jadoo12343/leetcode_solution/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/jadoo12343/leetcode_solution/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/jadoo12343/leetcode_solution/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Monotonic Stack
 |  |
 | ------- |
