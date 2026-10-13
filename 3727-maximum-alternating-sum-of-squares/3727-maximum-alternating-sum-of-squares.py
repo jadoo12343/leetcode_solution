@@ -3,7 +3,9 @@ class Solution:
         num = list(x**2 for x in nums)
         num.sort()
         n = len(nums)
-        return sum(num[n//2:]) - sum(num[:n//2]) 
+        list1 = num[:n//2]
+        list2 = num[n//2:]
+        return sum(list2) - sum(list1)
            
 
         
