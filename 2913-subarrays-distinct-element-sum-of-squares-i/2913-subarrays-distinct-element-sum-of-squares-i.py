@@ -1,13 +1,12 @@
 class Solution:
     def sumCounts(self, nums: List[int]) -> int:
-        res = []
-        count = 0
-
+        ans = 0
         n = len(nums)
+
         for i in range(n):
+            seen = set()
             for j in range(i, n):
-                res.append(nums[i : j + 1])
-        
-        for i in range(len(res)):
-            count += (len(set(res[i])))**2
-        return count
+                seen.add(nums[j])
+                distinct = len(seen)
+                ans += distinct**2
+        return ans
