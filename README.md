@@ -1,5 +1,5 @@
 # leetcode_solution
-all the leetcode problem's solution i have completed
+All the Leetcode Problems i have solved with their solutions
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
