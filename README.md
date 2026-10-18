@@ -30,6 +30,7 @@ All the Leetcode Problems i have solved with their solutions
 | [0268-missing-number](https://github.com/jadoo12343/leetcode_solution/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/jadoo12343/leetcode_solution/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/jadoo12343/leetcode_solution/tree/master/0287-find-the-duplicate-number) |
+| [0303-range-sum-query-immutable](https://github.com/jadoo12343/leetcode_solution/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/jadoo12343/leetcode_solution/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/jadoo12343/leetcode_solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/jadoo12343/leetcode_solution/tree/master/0455-assign-cookies) |
@@ -598,6 +599,7 @@ All the Leetcode Problems i have solved with their solutions
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/jadoo12343/leetcode_solution/tree/master/0303-range-sum-query-immutable) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/jadoo12343/leetcode_solution/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2731-movement-of-robots](https://github.com/jadoo12343/leetcode_solution/tree/master/2731-movement-of-robots) |
 ## Combinatorics
@@ -607,6 +609,7 @@ All the Leetcode Problems i have solved with their solutions
 ## Design
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/jadoo12343/leetcode_solution/tree/master/0303-range-sum-query-immutable) |
 | [0705-design-hashset](https://github.com/jadoo12343/leetcode_solution/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/jadoo12343/leetcode_solution/tree/master/0706-design-hashmap) |
 ## Hash Function
