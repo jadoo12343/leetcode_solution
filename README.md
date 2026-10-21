@@ -287,6 +287,7 @@ All the Leetcode Problems i have solved with their solutions
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/jadoo12343/leetcode_solution/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3227-vowels-game-in-a-string](https://github.com/jadoo12343/leetcode_solution/tree/master/3227-vowels-game-in-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/jadoo12343/leetcode_solution/tree/master/3498-reverse-degree-of-a-string) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/jadoo12343/leetcode_solution/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Bit Manipulation
 |  |
 | ------- |
