@@ -1,22 +1,23 @@
 class Solution:
     def minOperations(self, s: str) -> int:
-        n = len(s)
-        mn = mx = s[0]
-        isSorted = 1
+        if len(s) == 2 and sorted(s) != list(s):
+            return -1
+        
+        if sorted(s) == list(s):
+            return 0
 
-        for i in range(1, n):
-            if s[i] < s[i - 1]:
-                isSorted = 0
-            mn = min(mn, s[i])
-            mx = max(mx, s[i])
+        mn = min(s)
+        mx = max(s)
+        first = s[0]
+        last = s[-1]
 
-        if isSorted: return 0
-        if n == 2: return -1
-        if s[0] == mn or s[-1] == mx:
+        if first == mn or last == mx:
             return 1
 
-        for i in range(1, n - 1):
-            if s[i] == mn or s[i] == mx:
+        # need to get the last to the front
+        if first == mx and last == mn:
+            if s.count(mn) > 1 or s.count(mx) > 1:
                 return 2
-
-        return 3
+            return 3
+        
+        return 2
