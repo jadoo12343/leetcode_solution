@@ -82,6 +82,7 @@ All the Leetcode Problems i have solved with their solutions
 | [3828-final-element-after-subarray-deletions](https://github.com/jadoo12343/leetcode_solution/tree/master/3828-final-element-after-subarray-deletions) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/jadoo12343/leetcode_solution/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3886-sum-of-sortable-integers](https://github.com/jadoo12343/leetcode_solution/tree/master/3886-sum-of-sortable-integers) |
+| [3942-minimum-operations-to-sort-a-permutation](https://github.com/jadoo12343/leetcode_solution/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Math
 |  |
 | ------- |
