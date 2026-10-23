@@ -75,6 +75,7 @@ All the Leetcode Problems i have solved with their solutions
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/jadoo12343/leetcode_solution/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/jadoo12343/leetcode_solution/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/jadoo12343/leetcode_solution/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/jadoo12343/leetcode_solution/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3674-minimum-operations-to-equalize-array](https://github.com/jadoo12343/leetcode_solution/tree/master/3674-minimum-operations-to-equalize-array) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/jadoo12343/leetcode_solution/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/jadoo12343/leetcode_solution/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -305,6 +306,7 @@ All the Leetcode Problems i have solved with their solutions
 | [2568-minimum-impossible-or](https://github.com/jadoo12343/leetcode_solution/tree/master/2568-minimum-impossible-or) |
 | [2749-minimum-operations-to-make-the-integer-zero](https://github.com/jadoo12343/leetcode_solution/tree/master/2749-minimum-operations-to-make-the-integer-zero) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/jadoo12343/leetcode_solution/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/jadoo12343/leetcode_solution/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3674-minimum-operations-to-equalize-array](https://github.com/jadoo12343/leetcode_solution/tree/master/3674-minimum-operations-to-equalize-array) |
 ## Linked List
 |  |
