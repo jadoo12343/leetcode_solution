@@ -75,6 +75,7 @@ All the Leetcode Problems i have solved with their solutions
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/jadoo12343/leetcode_solution/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/jadoo12343/leetcode_solution/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/jadoo12343/leetcode_solution/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/jadoo12343/leetcode_solution/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/jadoo12343/leetcode_solution/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3674-minimum-operations-to-equalize-array](https://github.com/jadoo12343/leetcode_solution/tree/master/3674-minimum-operations-to-equalize-array) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/jadoo12343/leetcode_solution/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -240,6 +241,7 @@ All the Leetcode Problems i have solved with their solutions
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/jadoo12343/leetcode_solution/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1572-matrix-diagonal-sum](https://github.com/jadoo12343/leetcode_solution/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/jadoo12343/leetcode_solution/tree/master/1672-richest-customer-wealth) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/jadoo12343/leetcode_solution/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## String
 |  |
 | ------- |
@@ -661,12 +663,14 @@ All the Leetcode Problems i have solved with their solutions
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/jadoo12343/leetcode_solution/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/jadoo12343/leetcode_solution/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/jadoo12343/leetcode_solution/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/jadoo12343/leetcode_solution/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/jadoo12343/leetcode_solution/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/jadoo12343/leetcode_solution/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [1096-brace-expansion-ii](https://github.com/jadoo12343/leetcode_solution/tree/master/1096-brace-expansion-ii) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/jadoo12343/leetcode_solution/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Backtracking
 |  |
 | ------- |
@@ -684,4 +688,8 @@ All the Leetcode Problems i have solved with their solutions
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/jadoo12343/leetcode_solution/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Union-Find
+|  |
+| ------- |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/jadoo12343/leetcode_solution/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 <!---LeetCode Topics End-->
