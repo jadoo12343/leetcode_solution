@@ -83,6 +83,7 @@ All the Leetcode Problems i have solved with their solutions
 | [3731-find-missing-elements](https://github.com/jadoo12343/leetcode_solution/tree/master/3731-find-missing-elements) |
 | [3828-final-element-after-subarray-deletions](https://github.com/jadoo12343/leetcode_solution/tree/master/3828-final-element-after-subarray-deletions) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/jadoo12343/leetcode_solution/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/jadoo12343/leetcode_solution/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3886-sum-of-sortable-integers](https://github.com/jadoo12343/leetcode_solution/tree/master/3886-sum-of-sortable-integers) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/jadoo12343/leetcode_solution/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Math
@@ -242,6 +243,7 @@ All the Leetcode Problems i have solved with their solutions
 | [1572-matrix-diagonal-sum](https://github.com/jadoo12343/leetcode_solution/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/jadoo12343/leetcode_solution/tree/master/1672-richest-customer-wealth) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/jadoo12343/leetcode_solution/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/jadoo12343/leetcode_solution/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## String
 |  |
 | ------- |
@@ -310,6 +312,7 @@ All the Leetcode Problems i have solved with their solutions
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/jadoo12343/leetcode_solution/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/jadoo12343/leetcode_solution/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3674-minimum-operations-to-equalize-array](https://github.com/jadoo12343/leetcode_solution/tree/master/3674-minimum-operations-to-equalize-array) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/jadoo12343/leetcode_solution/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Linked List
 |  |
 | ------- |
@@ -454,6 +457,7 @@ All the Leetcode Problems i have solved with their solutions
 | [1406-stone-game-iii](https://github.com/jadoo12343/leetcode_solution/tree/master/1406-stone-game-iii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/jadoo12343/leetcode_solution/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2745-construct-the-longest-new-string](https://github.com/jadoo12343/leetcode_solution/tree/master/2745-construct-the-longest-new-string) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/jadoo12343/leetcode_solution/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Game Theory
 |  |
 | ------- |
