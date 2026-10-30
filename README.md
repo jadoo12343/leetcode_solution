@@ -294,6 +294,7 @@ All the Leetcode Problems i have solved with their solutions
 | [3227-vowels-game-in-a-string](https://github.com/jadoo12343/leetcode_solution/tree/master/3227-vowels-game-in-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/jadoo12343/leetcode_solution/tree/master/3498-reverse-degree-of-a-string) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/jadoo12343/leetcode_solution/tree/master/3863-minimum-operations-to-sort-a-string) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/jadoo12343/leetcode_solution/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -498,6 +499,7 @@ All the Leetcode Problems i have solved with their solutions
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/jadoo12343/leetcode_solution/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/jadoo12343/leetcode_solution/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/jadoo12343/leetcode_solution/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/jadoo12343/leetcode_solution/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -696,4 +698,12 @@ All the Leetcode Problems i have solved with their solutions
 |  |
 | ------- |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/jadoo12343/leetcode_solution/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+## Graph Theory
+|  |
+| ------- |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/jadoo12343/leetcode_solution/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
+## Shortest Path
+|  |
+| ------- |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/jadoo12343/leetcode_solution/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 <!---LeetCode Topics End-->
