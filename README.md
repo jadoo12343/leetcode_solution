@@ -46,6 +46,7 @@ All the Leetcode Problems i have solved with their solutions
 | [0976-largest-perimeter-triangle](https://github.com/jadoo12343/leetcode_solution/tree/master/0976-largest-perimeter-triangle) |
 | [1260-shift-2d-grid](https://github.com/jadoo12343/leetcode_solution/tree/master/1260-shift-2d-grid) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/jadoo12343/leetcode_solution/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/jadoo12343/leetcode_solution/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1406-stone-game-iii](https://github.com/jadoo12343/leetcode_solution/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/jadoo12343/leetcode_solution/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/jadoo12343/leetcode_solution/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -175,6 +176,7 @@ All the Leetcode Problems i have solved with their solutions
 | [0455-assign-cookies](https://github.com/jadoo12343/leetcode_solution/tree/master/0455-assign-cookies) |
 | [0541-reverse-string-ii](https://github.com/jadoo12343/leetcode_solution/tree/master/0541-reverse-string-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/jadoo12343/leetcode_solution/tree/master/0876-middle-of-the-linked-list) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/jadoo12343/leetcode_solution/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1768-merge-strings-alternately](https://github.com/jadoo12343/leetcode_solution/tree/master/1768-merge-strings-alternately) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/jadoo12343/leetcode_solution/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2396-strictly-palindromic-number](https://github.com/jadoo12343/leetcode_solution/tree/master/2396-strictly-palindromic-number) |
@@ -196,6 +198,7 @@ All the Leetcode Problems i have solved with their solutions
 | [0628-maximum-product-of-three-numbers](https://github.com/jadoo12343/leetcode_solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [0976-largest-perimeter-triangle](https://github.com/jadoo12343/leetcode_solution/tree/master/0976-largest-perimeter-triangle) |
 | [1096-brace-expansion-ii](https://github.com/jadoo12343/leetcode_solution/tree/master/1096-brace-expansion-ii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/jadoo12343/leetcode_solution/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/jadoo12343/leetcode_solution/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/jadoo12343/leetcode_solution/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/jadoo12343/leetcode_solution/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
@@ -536,6 +539,7 @@ All the Leetcode Problems i have solved with their solutions
 | [0350-intersection-of-two-arrays-ii](https://github.com/jadoo12343/leetcode_solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0374-guess-number-higher-or-lower](https://github.com/jadoo12343/leetcode_solution/tree/master/0374-guess-number-higher-or-lower) |
 | [0441-arranging-coins](https://github.com/jadoo12343/leetcode_solution/tree/master/0441-arranging-coins) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/jadoo12343/leetcode_solution/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/jadoo12343/leetcode_solution/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/jadoo12343/leetcode_solution/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/jadoo12343/leetcode_solution/tree/master/2333-minimum-sum-of-squared-difference) |
